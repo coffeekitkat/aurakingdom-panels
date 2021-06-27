@@ -47,6 +47,20 @@
 import panelsAssetDb from '~/static/panellist.json'
 import panelsDb from '~/static/data/panel.json'
 export default {
+  head: { 
+    meta: [
+      {
+        hid: 'ak-panel',
+        name: 'Aura Kingdom Panels',
+        content: 'List of Aura Kingdom Panels'
+      },
+      {
+        hid: 'ak-border',
+        name: 'Aura Kingdom Borders',
+        content: 'Aura Kingdom Panel'
+      }
+    ],
+  },
   data() {
     return {
       panelsAssetDb,
