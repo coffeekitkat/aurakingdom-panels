@@ -1,37 +1,53 @@
 <template>
-  <div v-bind:style="{ height: '100vh', width: '100vw' }" ref="container">
-     <button @click="setImage">set</button>
-    <v-stage ref="stage" :config="stageConf">
-    
-      <v-layer ref="layer">
-        <v-image
-          :config="{
-            image: image,
-          }"
-        />
-      </v-layer>
+  <div class="flex">
+    <div v-bind:style="{ height: '100vh', width: '80vw' }" ref="container">
+      <button @click="setImage">set</button>
+      <v-stage ref="stage" :config="stageConf">
+        <v-layer ref="layer">
+          <v-image
+            :config="{
+              image: image,
+            }"
+          />
+        </v-layer>
 
-      <v-layer ref="layer1">
-        <v-group v-for="set in Imageset.Image" :key="set._Name">
-          <v-rect :config="loadImageSet(set)" />
-          <v-text
-            :config="setText({ ...set, text: set._Name, fill: 'white' })"
-          ></v-text>
-        </v-group>
-      </v-layer>
-          <v-layer ref="layer3">
-        <v-image
-          :config="{
-            image: entities,
-          }"
-        />
-      </v-layer>
-    </v-stage>
-   
+        <v-layer ref="layer1">
+          <v-group v-for="set in Imageset.Image" :key="set._Name">
+            <v-rect :config="loadImageSet(set)" />
+            <v-text
+              :config="setText({ ...set, text: set._Name, fill: 'white' })"
+            ></v-text>
+          </v-group>
+        </v-layer>
+        <v-layer ref="layer3">
+          <v-image
+            :config="{
+              image: entities,
+            }"
+          />
+        </v-layer>
+      </v-stage>
+    </div>
+    <div class="flex flex-col align-center pr-6">
+      <div>Title</div>
+
+      <div>
+        <div>Components</div>
+        <div class="max-h-96 overflow-y-scroll">
+          <Panel
+            v-for="panel in panelsDb"
+            :src="panel.path"
+            :key="panel.filename"
+          ></Panel>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
+import panelsDb from '~/static/panellist.json'
+
 import Konva from 'konva'
 import { Imageset } from '~/static/images/editor/atlas.json'
 const width = window.innerWidth
@@ -41,6 +57,7 @@ var sceneHeight = 1000
 export default {
   data() {
     return {
+      panelsDb,
       stageConf: {
         width: width,
         height: height,
@@ -62,7 +79,6 @@ export default {
       // set image only when it is loaded
       this.image = image
     }
-
   },
 
   methods: {
@@ -98,17 +114,16 @@ export default {
       this.stageConf.height = height
     },
 
-    setImage(){
-        console.log('set')
-      
-   
-        const image = new window.Image()
-        image.src = `images/${this.replaceWith}.PNG`
-        image.onload = () => {
+    setImage() {
+      console.log('set')
+
+      const image = new window.Image()
+      image.src = `images/${this.replaceWith}.PNG`
+      image.onload = () => {
         // set image only when it is loaded
         this.entities = image
-        }
-    }
+      }
+    },
   },
 }
 </script>
