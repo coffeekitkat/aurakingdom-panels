@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "core-js": "^3.9.1",
-    "nuxt": "^2.15.3"
+    "konva": "^8.0.4",
+    "nuxt": "^2.15.3",
+    "vue-konva": "^2.1.7"
   },
   "devDependencies": {
     "@nuxtjs/stylelint-module": "^4.0.0",
