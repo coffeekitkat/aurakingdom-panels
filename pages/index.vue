@@ -34,7 +34,7 @@
     </div>
 
     <div class="text-xs text-center text-white pb-8">
-      <p>&copy; 2016 - {{ yearNow }}</p>
+      <p>&copy; {{ copyrightYear }}</p>
       <p>
         All game content and assets are trademarks and copyrights of X-Legend or
         Aeria Games. This website is not affiliated with X-Legend or Aeria Games.
@@ -72,6 +72,12 @@ export default {
     yearNow() {
       return new Date().getFullYear()
     },
+    
+    copyrightYear() { 
+      const startYear = 2021
+      const yearToday = new Date().getFullYear()
+      return startYear > yearToday ? "2021 - " + yearToday : '2021'
+    }
   },
 
   methods: {
