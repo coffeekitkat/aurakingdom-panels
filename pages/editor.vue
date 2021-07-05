@@ -15,7 +15,7 @@
           <v-group v-for="set in Imageset.Image" :key="set._Name">
             <v-rect :config="loadImageSet(set)" />
             <v-text
-              :config="setText({ ...set, text: set._Name, fill: 'white' })"
+              :config="setText({ ...set, text: debugText(set), fill: 'white' })"
             ></v-text>
           </v-group>
         </v-layer>
@@ -95,9 +95,13 @@ export default {
     setText(config) {
       return {
         ...config,
-        x: Number(config._XPos),
-        y: Number(config._YPos),
+        x: Number(config._XPos) + 10,
+        y: Number(config._YPos) + 20,
       }
+    },
+
+    debugText(set) {
+      return `${set._Name} - ${set._Width} x ${set._Height} pixels`
     },
 
     changeRect() {

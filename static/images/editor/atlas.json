@@ -1,0 +1,129 @@
+{
+	"Imageset": {
+		"Image": [
+			{
+				"_Name": "TeamInfoKing",
+				"_XPos": "374",
+				"_YPos": "218",
+				"_Width": "336",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TeamInfoHKing",
+				"_XPos": "374",
+				"_YPos": "514",
+				"_Width": "336",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TargetInfoKing",
+				"_XPos": "5",
+				"_YPos": "218",
+				"_Width": "360",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TeamInfoBishop",
+				"_XPos": "374",
+				"_YPos": "146",
+				"_Width": "336",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TeamInfoCastle",
+				"_XPos": "374",
+				"_YPos": "75",
+				"_Width": "336",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TeamInfoKnight",
+				"_XPos": "374",
+				"_YPos": "6",
+				"_Width": "336",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TargetInfoHKing",
+				"_XPos": "5",
+				"_YPos": "514",
+				"_Width": "360",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TeamInfoHBishop",
+				"_XPos": "374",
+				"_YPos": "438",
+				"_Width": "336",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TeamInfoHCastle",
+				"_XPos": "374",
+				"_YPos": "366",
+				"_Width": "336",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TeamInfoHKnight",
+				"_XPos": "374",
+				"_YPos": "291",
+				"_Width": "336",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TargetInfoBishop",
+				"_XPos": "5",
+				"_YPos": "146",
+				"_Width": "360",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TargetInfoCastle",
+				"_XPos": "5",
+				"_YPos": "75",
+				"_Width": "360",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TargetInfoKnight",
+				"_XPos": "5",
+				"_YPos": "6",
+				"_Width": "360",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TargetMonsterNew",
+				"_XPos": "7",
+				"_YPos": "923",
+				"_Width": "370",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TargetInfoHBishop",
+				"_XPos": "5",
+				"_YPos": "438",
+				"_Width": "360",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TargetInfoHCastle",
+				"_XPos": "5",
+				"_YPos": "366",
+				"_Width": "360",
+				"_Height": "65"
+			},
+			{
+				"_Name": "TargetInfoHKnight",
+				"_XPos": "5",
+				"_YPos": "291",
+				"_Width": "360",
+				"_Height": "65"
+			}
+		],
+		"_Name": "main10",
+		"_Imagefile": "main10.png",
+		"_NativeHorzRes": "1280",
+		"_NativeVertRes": "1024"
+	}
+}
