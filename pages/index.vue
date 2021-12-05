@@ -15,19 +15,19 @@
         "
       >
         <div
-          v-for="p in panelsAssetDb"
-          :key="p.filename"
+          v-for="p in panelsDb"
+          :key="p.fd"
           class="text-center mb-4"
         >
-          <img :src="p.path" :alt="p.filename" />
+          <img :src="getPanelAssetPath(p)" :alt="p.fd" />
           <div class="relative">
             <code class="text-blue-400">
-            {{ getPanelInfoByFd(p.filename).panel_name }}</code
+            {{ p.panel_name }}</code
           >
-            <code class="text-xs absolute text-gray-400 right-0">{{ getPanelInfoByFd(p.filename).fd }}</code>
+            <code class="text-xs absolute text-gray-400 right-0">{{ p.fd }}</code>
           </div>
           <div class="mb-1 text-gray-200">
-            {{ getPanelInfoByFd(p.filename).panel_description }}
+            {{ p.panel_description }}
           </div>
         </div>
       </div>
@@ -81,6 +81,10 @@ export default {
   },
 
   methods: {
+    getPanelAssetPath(p) {
+      return `images/${p.fd}.png`
+    },
+
     getPanelInfoByFd(fd) {
       return this.panelsDb.find((e) => e.fd == fd)
     },

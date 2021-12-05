@@ -1,1112 +1,1358 @@
 [
 	{
-		"id" : 1,
-		"fd" : "panel0000",
-		"panel_name" : "Default UI",
-		"panel_description" : "Initial Character Default UI"
+		"id": 1,
+		"fd": "panel0000",
+		"panel_name": "Default UI",
+		"panel_description": "Initial Character Default UI"
 	},
 	{
-		"id" : 2,
-		"fd" : "panel0001",
-		"panel_name" : "Castle Class",
-		"panel_description" : "Accumulate 200 Score"
+		"id": 2,
+		"fd": "panel0001",
+		"panel_name": "Castle Class",
+		"panel_description": "Accumulate 200 Score"
 	},
 	{
-		"id" : 3,
-		"fd" : "panel0002",
-		"panel_name" : "Knight Class",
-		"panel_description" : "Accumulate 500 Score"
+		"id": 3,
+		"fd": "panel0002",
+		"panel_name": "Knight Class",
+		"panel_description": "Accumulate 500 Score"
 	},
 	{
-		"id" : 4,
-		"fd" : "panel0003",
-		"panel_name" : "Queen Class",
-		"panel_description" : "Accumulate 1100 Score"
+		"id": 4,
+		"fd": "panel0003",
+		"panel_name": "Queen Class",
+		"panel_description": "Accumulate 1100 Score"
 	},
 	{
-		"id" : 5,
-		"fd" : "panel0004",
-		"panel_name" : "King Class",
-		"panel_description" : "Accumulate 2000 Score"
+		"id": 5,
+		"fd": "panel0004",
+		"panel_name": "King Class",
+		"panel_description": "Accumulate 2000 Score"
 	},
 	{
-		"id" : 6,
-		"fd" : "panel0005",
-		"panel_name" : "Survival Castle",
-		"panel_description" : "Accumulate 200 Score"
+		"id": 6,
+		"fd": "panel0005",
+		"panel_name": "Survival Castle",
+		"panel_description": "Accumulate 200 Score"
 	},
 	{
-		"id" : 7,
-		"fd" : "panel0006",
-		"panel_name" : "Survival Knight",
-		"panel_description" : "Accumulate 500 Score"
+		"id": 7,
+		"fd": "panel0006",
+		"panel_name": "Survival Knight",
+		"panel_description": "Accumulate 500 Score"
 	},
 	{
-		"id" : 8,
-		"fd" : "panel0007",
-		"panel_name" : "Survival Queen",
-		"panel_description" : "Accumulate 1100 Score"
+		"id": 8,
+		"fd": "panel0007",
+		"panel_name": "Survival Queen",
+		"panel_description": "Accumulate 1100 Score"
 	},
 	{
-		"id" : 9,
-		"fd" : "panel0008",
-		"panel_name" : "Survival King",
-		"panel_description" : "Accumulate 2000 Score"
+		"id": 9,
+		"fd": "panel0008",
+		"panel_name": "Survival King",
+		"panel_description": "Accumulate 2000 Score"
 	},
 	{
-		"id" : 10,
-		"fd" : "panel0009",
-		"panel_name" : "Duelist Elite UI",
-		"panel_description" : "Use the Dual Blades and reach 1000 kills on the Battlefield or in the Arena."
+		"id": 10,
+		"fd": "panel0009",
+		"panel_name": "Duelist Elite UI",
+		"panel_description": "Use the Dual Blades and reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 11,
-		"fd" : "panel0010",
-		"panel_name" : "Guardian Elite UI",
-		"panel_description" : "Use Sword and Shield to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 11,
+		"fd": "panel0010",
+		"panel_name": "Guardian Elite UI",
+		"panel_description": "Use Sword and Shield to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 12,
-		"fd" : "panel0011",
-		"panel_name" : "Ravager Elite UI",
-		"panel_description" : "Use the Great Axe to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 12,
+		"fd": "panel0011",
+		"panel_name": "Ravager Elite UI",
+		"panel_description": "Use the Great Axe to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 13,
-		"fd" : "panel0012",
-		"panel_name" : "Wizard Elite UI",
-		"panel_description" : "Use the Staff to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 13,
+		"fd": "panel0012",
+		"panel_name": "Wizard Elite UI",
+		"panel_description": "Use the Staff to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 14,
-		"fd" : "panel0013",
-		"panel_name" : "Gunslinger Elite UI",
-		"panel_description" : "Use the Dual Pistols to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 14,
+		"fd": "panel0013",
+		"panel_name": "Gunslinger Elite UI",
+		"panel_description": "Use the Dual Pistols to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 15,
-		"fd" : "panel0014",
-		"panel_name" : "Grenadier Elite UI",
-		"panel_description" : "Use the Cannon to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 15,
+		"fd": "panel0014",
+		"panel_name": "Grenadier Elite UI",
+		"panel_description": "Use the Cannon to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 16,
-		"fd" : "panel0015",
-		"panel_name" : "Sorcerer Elite UI",
-		"panel_description" : "Use the Grimoire to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 16,
+		"fd": "panel0015",
+		"panel_name": "Sorcerer Elite UI",
+		"panel_description": "Use the Grimoire to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 17,
-		"fd" : "panel0016",
-		"panel_name" : "Bard Elite UI",
-		"panel_description" : "Use the Harp to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 17,
+		"fd": "panel0016",
+		"panel_name": "Bard Elite UI",
+		"panel_description": "Use the Harp to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 18,
-		"fd" : "panel0017",
-		"panel_name" : "Brawler Elite UI",
-		"panel_description" : "Use the Katar to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 18,
+		"fd": "panel0017",
+		"panel_name": "Brawler Elite UI",
+		"panel_description": "Use the Katar to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 19,
-		"fd" : "panel0018",
-		"panel_name" : "Ranger Elite UI",
-		"panel_description" : "Use the War Bow to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 19,
+		"fd": "panel0018",
+		"panel_name": "Ranger Elite UI",
+		"panel_description": "Use the War Bow to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 20,
-		"fd" : "panel0019",
-		"panel_name" : "Ronin Elite UI",
-		"panel_description" : "Use the Katana to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 20,
+		"fd": "panel0019",
+		"panel_name": "Ronin Elite UI",
+		"panel_description": "Use the Katana to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 21,
-		"fd" : "panel0020",
-		"panel_name" : "Reaper Elite UI",
-		"panel_description" : "Use the Scythe to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 21,
+		"fd": "panel0020",
+		"panel_name": "Reaper Elite UI",
+		"panel_description": "Use the Scythe to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 22,
-		"fd" : "panel0021",
-		"panel_name" : "Crusader Elite UI",
-		"panel_description" : "Use the Holy Sword to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 22,
+		"fd": "panel0021",
+		"panel_name": "Crusader Elite UI",
+		"panel_description": "Use the Holy Sword to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 23,
-		"fd" : "panel0022",
-		"panel_name" : "Shinobi Elite UI",
-		"panel_description" : "Use the Shuriken to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 23,
+		"fd": "panel0022",
+		"panel_name": "Shinobi Elite UI",
+		"panel_description": "Use the Shuriken to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 24,
-		"fd" : "panel0023",
-		"panel_name" : "Lancer Elite UI",
-		"panel_description" : "Use the Lance to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 24,
+		"fd": "panel0023",
+		"panel_name": "Lancer Elite UI",
+		"panel_description": "Use the Lance to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 25,
-		"fd" : "panel0024",
-		"panel_name" : "Arena: 1st Duelist",
-		"panel_description" : "Use the Dual Blades to achieve the #1 spot in the Arena ranking."
+		"id": 25,
+		"fd": "panel0024",
+		"panel_name": "Arena: 1st Duelist",
+		"panel_description": "Use the Dual Blades to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 26,
-		"fd" : "panel0025",
-		"panel_name" : "Arena: 2nd Duelist",
-		"panel_description" : "Use the Dual Blades to achieve the #2 spot in the Arena ranking."
+		"id": 26,
+		"fd": "panel0025",
+		"panel_name": "Arena: 2nd Duelist",
+		"panel_description": "Use the Dual Blades to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 27,
-		"fd" : "panel0026",
-		"panel_name" : "Arena: 3rd Duelist",
-		"panel_description" : "Use the Dual Blades to achieve the #3 spot in the Arena ranking."
+		"id": 27,
+		"fd": "panel0026",
+		"panel_name": "Arena: 3rd Duelist",
+		"panel_description": "Use the Dual Blades to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 28,
-		"fd" : "panel0027",
-		"panel_name" : "Arena: 1st Guardian",
-		"panel_description" : "Use Sword and Shield to achieve the #1 spot in the Arena ranking."
+		"id": 28,
+		"fd": "panel0027",
+		"panel_name": "Arena: 1st Guardian",
+		"panel_description": "Use Sword and Shield to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 29,
-		"fd" : "panel0028",
-		"panel_name" : "Arena: 2nd Guardian",
-		"panel_description" : "Use Sword and Shield to achieve the #2 spot in the Arena ranking."
+		"id": 29,
+		"fd": "panel0028",
+		"panel_name": "Arena: 2nd Guardian",
+		"panel_description": "Use Sword and Shield to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 30,
-		"fd" : "panel0029",
-		"panel_name" : "Arena: 3rd Guardian",
-		"panel_description" : "Use Sword and Shield to achieve the #3 spot in the Arena ranking."
+		"id": 30,
+		"fd": "panel0029",
+		"panel_name": "Arena: 3rd Guardian",
+		"panel_description": "Use Sword and Shield to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 31,
-		"fd" : "panel0030",
-		"panel_name" : "Arena: 1st Ravager",
-		"panel_description" : "Use the Great Axe to achieve the #1 spot in the Arena ranking."
+		"id": 31,
+		"fd": "panel0030",
+		"panel_name": "Arena: 1st Ravager",
+		"panel_description": "Use the Great Axe to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 32,
-		"fd" : "panel0031",
-		"panel_name" : "Arena: 2nd Ravager",
-		"panel_description" : "Use the Great Axe to achieve the #2 spot in the Arena ranking."
+		"id": 32,
+		"fd": "panel0031",
+		"panel_name": "Arena: 2nd Ravager",
+		"panel_description": "Use the Great Axe to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 33,
-		"fd" : "panel0032",
-		"panel_name" : "Arena: 3rd Ravager",
-		"panel_description" : "Use the Great Axe to achieve the #3 spot in the Arena ranking."
+		"id": 33,
+		"fd": "panel0032",
+		"panel_name": "Arena: 3rd Ravager",
+		"panel_description": "Use the Great Axe to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 34,
-		"fd" : "panel0033",
-		"panel_name" : "Arena: 1st Wizard",
-		"panel_description" : "Use the Staff to achieve the #1 spot in the Arena ranking."
+		"id": 34,
+		"fd": "panel0033",
+		"panel_name": "Arena: 1st Wizard",
+		"panel_description": "Use the Staff to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 35,
-		"fd" : "panel0034",
-		"panel_name" : "Arena: 2nd Wizard",
-		"panel_description" : "Use the Staff to achieve the #2 spot in the Arena ranking."
+		"id": 35,
+		"fd": "panel0034",
+		"panel_name": "Arena: 2nd Wizard",
+		"panel_description": "Use the Staff to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 36,
-		"fd" : "panel0035",
-		"panel_name" : "Arena: 3rd Wizard",
-		"panel_description" : "Use the Staff to achieve the #3 spot in the Arena ranking."
+		"id": 36,
+		"fd": "panel0035",
+		"panel_name": "Arena: 3rd Wizard",
+		"panel_description": "Use the Staff to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 37,
-		"fd" : "panel0036",
-		"panel_name" : "Arena: 1st Gunslinger",
-		"panel_description" : "Use the Dual Pistols to achieve the #1 spot in the Arena ranking."
+		"id": 37,
+		"fd": "panel0036",
+		"panel_name": "Arena: 1st Gunslinger",
+		"panel_description": "Use the Dual Pistols to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 38,
-		"fd" : "panel0037",
-		"panel_name" : "Arena: 2nd Gunslinger",
-		"panel_description" : "Use the Dual Pistols to achieve the #2 spot in the Arena ranking."
+		"id": 38,
+		"fd": "panel0037",
+		"panel_name": "Arena: 2nd Gunslinger",
+		"panel_description": "Use the Dual Pistols to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 39,
-		"fd" : "panel0038",
-		"panel_name" : "Arena: 3rd Gunslinger",
-		"panel_description" : "Use the Dual Pistols to achieve the #3 spot in the Arena ranking."
+		"id": 39,
+		"fd": "panel0038",
+		"panel_name": "Arena: 3rd Gunslinger",
+		"panel_description": "Use the Dual Pistols to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 40,
-		"fd" : "panel0039",
-		"panel_name" : "Arena: 1st Grenadier",
-		"panel_description" : "Use the Cannon to achieve the #1 spot in the Arena ranking."
+		"id": 40,
+		"fd": "panel0039",
+		"panel_name": "Arena: 1st Grenadier",
+		"panel_description": "Use the Cannon to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 41,
-		"fd" : "panel0040",
-		"panel_name" : "Arena: 2nd Grenadier",
-		"panel_description" : "Use the Cannon to achieve the #2 spot in the Arena ranking."
+		"id": 41,
+		"fd": "panel0040",
+		"panel_name": "Arena: 2nd Grenadier",
+		"panel_description": "Use the Cannon to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 42,
-		"fd" : "panel0041",
-		"panel_name" : "Arena: 3rd Grenadier",
-		"panel_description" : "Use the Cannon to achieve the #3 spot in the Arena ranking."
+		"id": 42,
+		"fd": "panel0041",
+		"panel_name": "Arena: 3rd Grenadier",
+		"panel_description": "Use the Cannon to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 43,
-		"fd" : "panel0042",
-		"panel_name" : "Arena: 1st Sorcerer",
-		"panel_description" : "Use the Grimoire to achieve the #1 spot in the Arena ranking."
+		"id": 43,
+		"fd": "panel0042",
+		"panel_name": "Arena: 1st Sorcerer",
+		"panel_description": "Use the Grimoire to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 44,
-		"fd" : "panel0043",
-		"panel_name" : "Arena: 2nd Sorcerer",
-		"panel_description" : "Use the Grimoire to achieve the #2 spot in the Arena ranking."
+		"id": 44,
+		"fd": "panel0043",
+		"panel_name": "Arena: 2nd Sorcerer",
+		"panel_description": "Use the Grimoire to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 45,
-		"fd" : "panel0044",
-		"panel_name" : "Arena: 3rd Sorcerer",
-		"panel_description" : "Use the Grimoire to achieve the #3 spot in the Arena ranking."
+		"id": 45,
+		"fd": "panel0044",
+		"panel_name": "Arena: 3rd Sorcerer",
+		"panel_description": "Use the Grimoire to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 46,
-		"fd" : "panel0045",
-		"panel_name" : "Arena: 1st Bard",
-		"panel_description" : "Use the Harp to achieve the #1 spot in the Arena ranking."
+		"id": 46,
+		"fd": "panel0045",
+		"panel_name": "Arena: 1st Bard",
+		"panel_description": "Use the Harp to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 47,
-		"fd" : "panel0046",
-		"panel_name" : "Arena: 2nd Bard",
-		"panel_description" : "Use the Harp to achieve the #2 spot in the Arena ranking."
+		"id": 47,
+		"fd": "panel0046",
+		"panel_name": "Arena: 2nd Bard",
+		"panel_description": "Use the Harp to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 48,
-		"fd" : "panel0047",
-		"panel_name" : "Arena: 3rd Bard",
-		"panel_description" : "Use the Harp to achieve the #3 spot in the Arena ranking."
+		"id": 48,
+		"fd": "panel0047",
+		"panel_name": "Arena: 3rd Bard",
+		"panel_description": "Use the Harp to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 49,
-		"fd" : "panel0048",
-		"panel_name" : "Arena: 1st Brawler",
-		"panel_description" : "Use the Katar to achieve the #1 spot in the Arena ranking."
+		"id": 49,
+		"fd": "panel0048",
+		"panel_name": "Arena: 1st Brawler",
+		"panel_description": "Use the Katar to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 50,
-		"fd" : "panel0049",
-		"panel_name" : "Arena: 2nd Brawler",
-		"panel_description" : "Use the Katar to achieve the #2 spot in the Arena ranking."
+		"id": 50,
+		"fd": "panel0049",
+		"panel_name": "Arena: 2nd Brawler",
+		"panel_description": "Use the Katar to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 51,
-		"fd" : "panel0050",
-		"panel_name" : "Arena: 3rd Brawler",
-		"panel_description" : "Use the Katar to achieve the #3 spot in the Arena ranking."
+		"id": 51,
+		"fd": "panel0050",
+		"panel_name": "Arena: 3rd Brawler",
+		"panel_description": "Use the Katar to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 52,
-		"fd" : "panel0051",
-		"panel_name" : "Arena: 1st Ranger",
-		"panel_description" : "Use the War Bow to achieve the #1 spot in the Arena ranking."
+		"id": 52,
+		"fd": "panel0051",
+		"panel_name": "Arena: 1st Ranger",
+		"panel_description": "Use the War Bow to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 53,
-		"fd" : "panel0052",
-		"panel_name" : "Arena: 2nd Ranger",
-		"panel_description" : "Use the War Bow to achieve the #2 spot in the Arena ranking."
+		"id": 53,
+		"fd": "panel0052",
+		"panel_name": "Arena: 2nd Ranger",
+		"panel_description": "Use the War Bow to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 54,
-		"fd" : "panel0053",
-		"panel_name" : "Arena: 3rd Ranger",
-		"panel_description" : "Use the War Bow to achieve the #3 spot in the Arena ranking."
+		"id": 54,
+		"fd": "panel0053",
+		"panel_name": "Arena: 3rd Ranger",
+		"panel_description": "Use the War Bow to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 55,
-		"fd" : "panel0054",
-		"panel_name" : "Arena: 1st Ronin",
-		"panel_description" : "Use the Katana to achieve the #1 spot in the Arena ranking."
+		"id": 55,
+		"fd": "panel0054",
+		"panel_name": "Arena: 1st Ronin",
+		"panel_description": "Use the Katana to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 56,
-		"fd" : "panel0055",
-		"panel_name" : "Arena: 2nd Ronin",
-		"panel_description" : "Use the Katana to achieve the #2 spot in the Arena ranking."
+		"id": 56,
+		"fd": "panel0055",
+		"panel_name": "Arena: 2nd Ronin",
+		"panel_description": "Use the Katana to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 57,
-		"fd" : "panel0056",
-		"panel_name" : "Arena: 3rd Ronin",
-		"panel_description" : "Use the Katana to achieve the #3 spot in the Arena ranking."
+		"id": 57,
+		"fd": "panel0056",
+		"panel_name": "Arena: 3rd Ronin",
+		"panel_description": "Use the Katana to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 58,
-		"fd" : "panel0057",
-		"panel_name" : "Arena: 1st Reaper",
-		"panel_description" : "Use the Scythe to achieve the #1 spot in the Arena ranking."
+		"id": 58,
+		"fd": "panel0057",
+		"panel_name": "Arena: 1st Reaper",
+		"panel_description": "Use the Scythe to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 59,
-		"fd" : "panel0058",
-		"panel_name" : "Arena: 2nd Reaper",
-		"panel_description" : "Use the Scythe to achieve the #2 spot in the Arena ranking."
+		"id": 59,
+		"fd": "panel0058",
+		"panel_name": "Arena: 2nd Reaper",
+		"panel_description": "Use the Scythe to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 60,
-		"fd" : "panel0059",
-		"panel_name" : "Arena: 3rd Reaper",
-		"panel_description" : "Use the Scythe to achieve the #3 spot in the Arena ranking."
+		"id": 60,
+		"fd": "panel0059",
+		"panel_name": "Arena: 3rd Reaper",
+		"panel_description": "Use the Scythe to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 61,
-		"fd" : "panel0060",
-		"panel_name" : "Arena: 1st Crusader",
-		"panel_description" : "Use the Holy Sword to achieve the #1 spot in the Arena ranking."
+		"id": 61,
+		"fd": "panel0060",
+		"panel_name": "Arena: 1st Crusader",
+		"panel_description": "Use the Holy Sword to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 62,
-		"fd" : "panel0061",
-		"panel_name" : "Arena: 2nd Crusader",
-		"panel_description" : "Use the Holy Sword to achieve the #2 spot in the Arena ranking."
+		"id": 62,
+		"fd": "panel0061",
+		"panel_name": "Arena: 2nd Crusader",
+		"panel_description": "Use the Holy Sword to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 63,
-		"fd" : "panel0062",
-		"panel_name" : "Arena: 3rd Crusader",
-		"panel_description" : "Use the Holy Sword to achieve the #3 spot in the Arena ranking."
+		"id": 63,
+		"fd": "panel0062",
+		"panel_name": "Arena: 3rd Crusader",
+		"panel_description": "Use the Holy Sword to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 64,
-		"fd" : "panel0063",
-		"panel_name" : "Arena: 1st Shinobi",
-		"panel_description" : "Use the Shuriken to achieve the #1 spot in the Arena ranking."
+		"id": 64,
+		"fd": "panel0063",
+		"panel_name": "Arena: 1st Shinobi",
+		"panel_description": "Use the Shuriken to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 65,
-		"fd" : "panel0064",
-		"panel_name" : "Arena: 2nd Shinobi",
-		"panel_description" : "Use the Shuriken to achieve the #2 spot in the Arena ranking."
+		"id": 65,
+		"fd": "panel0064",
+		"panel_name": "Arena: 2nd Shinobi",
+		"panel_description": "Use the Shuriken to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 66,
-		"fd" : "panel0065",
-		"panel_name" : "Arena: 3rd Shinobi",
-		"panel_description" : "Use the Shuriken to achieve the #3 spot in the Arena ranking."
+		"id": 66,
+		"fd": "panel0065",
+		"panel_name": "Arena: 3rd Shinobi",
+		"panel_description": "Use the Shuriken to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 67,
-		"fd" : "panel0066",
-		"panel_name" : "Arena: 1st Lancer",
-		"panel_description" : "Use the Lance to achieve the #1 spot in the Arena ranking."
+		"id": 67,
+		"fd": "panel0066",
+		"panel_name": "Arena: 1st Lancer",
+		"panel_description": "Use the Lance to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 68,
-		"fd" : "panel0067",
-		"panel_name" : "Arena: 2nd Lancer",
-		"panel_description" : "Use the Lance to achieve the #2 spot in the Arena ranking."
+		"id": 68,
+		"fd": "panel0067",
+		"panel_name": "Arena: 2nd Lancer",
+		"panel_description": "Use the Lance to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 69,
-		"fd" : "panel0068",
-		"panel_name" : "Arena: 3rd Lancer",
-		"panel_description" : "Use the Lance to achieve the #3 spot in the Arena ranking."
+		"id": 69,
+		"fd": "panel0068",
+		"panel_name": "Arena: 3rd Lancer",
+		"panel_description": "Use the Lance to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 70,
-		"fd" : "panel0069",
-		"panel_name" : "Battlefield: 1st Duelist",
-		"panel_description" : "Use the Dual Blades to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 70,
+		"fd": "panel0069",
+		"panel_name": "Battlefield: 1st Duelist",
+		"panel_description": "Use the Dual Blades to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 71,
-		"fd" : "panel0070",
-		"panel_name" : "Battlefield: 2nd Duelist",
-		"panel_description" : "Use the Dual Blades to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 71,
+		"fd": "panel0070",
+		"panel_name": "Battlefield: 2nd Duelist",
+		"panel_description": "Use the Dual Blades to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 72,
-		"fd" : "panel0071",
-		"panel_name" : "Battlefield: 3rd Duelist",
-		"panel_description" : "Use the Dual Blades to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 72,
+		"fd": "panel0071",
+		"panel_name": "Battlefield: 3rd Duelist",
+		"panel_description": "Use the Dual Blades to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 73,
-		"fd" : "panel0072",
-		"panel_name" : "Battlefield: 1st Guardian",
-		"panel_description" : "Use the Sword and Shield to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 73,
+		"fd": "panel0072",
+		"panel_name": "Battlefield: 1st Guardian",
+		"panel_description": "Use the Sword and Shield to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 74,
-		"fd" : "panel0073",
-		"panel_name" : "Battlefield: 2nd Guardian",
-		"panel_description" : "Use the Sword and Shield to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 74,
+		"fd": "panel0073",
+		"panel_name": "Battlefield: 2nd Guardian",
+		"panel_description": "Use the Sword and Shield to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 75,
-		"fd" : "panel0074",
-		"panel_name" : "Battlefield: 3rd Guardian",
-		"panel_description" : "Use the Sword and Shield to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 75,
+		"fd": "panel0074",
+		"panel_name": "Battlefield: 3rd Guardian",
+		"panel_description": "Use the Sword and Shield to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 76,
-		"fd" : "panel0075",
-		"panel_name" : "Battlefield: 1st Ravager",
-		"panel_description" : "Use the Great Axe to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 76,
+		"fd": "panel0075",
+		"panel_name": "Battlefield: 1st Ravager",
+		"panel_description": "Use the Great Axe to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 77,
-		"fd" : "panel0076",
-		"panel_name" : "Battlefield: 2nd Ravager",
-		"panel_description" : "Use the Great Axe to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 77,
+		"fd": "panel0076",
+		"panel_name": "Battlefield: 2nd Ravager",
+		"panel_description": "Use the Great Axe to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 78,
-		"fd" : "panel0077",
-		"panel_name" : "Battlefield: 3rd Ravager",
-		"panel_description" : "Use the Great Axe to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 78,
+		"fd": "panel0077",
+		"panel_name": "Battlefield: 3rd Ravager",
+		"panel_description": "Use the Great Axe to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 79,
-		"fd" : "panel0078",
-		"panel_name" : "Battlefield: 1st Wizard",
-		"panel_description" : "Use the Staff to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 79,
+		"fd": "panel0078",
+		"panel_name": "Battlefield: 1st Wizard",
+		"panel_description": "Use the Staff to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 80,
-		"fd" : "panel0079",
-		"panel_name" : "Battlefield: 2nd Wizard",
-		"panel_description" : "Use the Staff to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 80,
+		"fd": "panel0079",
+		"panel_name": "Battlefield: 2nd Wizard",
+		"panel_description": "Use the Staff to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 81,
-		"fd" : "panel0080",
-		"panel_name" : "Battlefield: 3rd Wizard",
-		"panel_description" : "Use the Staff to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 81,
+		"fd": "panel0080",
+		"panel_name": "Battlefield: 3rd Wizard",
+		"panel_description": "Use the Staff to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 82,
-		"fd" : "panel0081",
-		"panel_name" : "Battlefield: 1st Gunslinger",
-		"panel_description" : "Use the Dual Pistols to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 82,
+		"fd": "panel0081",
+		"panel_name": "Battlefield: 1st Gunslinger",
+		"panel_description": "Use the Dual Pistols to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 83,
-		"fd" : "panel0082",
-		"panel_name" : "Battlefield: 2nd Gunslinger",
-		"panel_description" : "Use the Dual Pistols to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 83,
+		"fd": "panel0082",
+		"panel_name": "Battlefield: 2nd Gunslinger",
+		"panel_description": "Use the Dual Pistols to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 84,
-		"fd" : "panel0083",
-		"panel_name" : "Battlefield: 3rd Gunslinger",
-		"panel_description" : "Use the Dual Pistols to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 84,
+		"fd": "panel0083",
+		"panel_name": "Battlefield: 3rd Gunslinger",
+		"panel_description": "Use the Dual Pistols to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 85,
-		"fd" : "panel0084",
-		"panel_name" : "Battlefield: 1st Grenadier",
-		"panel_description" : "Use the Cannon to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 85,
+		"fd": "panel0084",
+		"panel_name": "Battlefield: 1st Grenadier",
+		"panel_description": "Use the Cannon to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 86,
-		"fd" : "panel0085",
-		"panel_name" : "Battlefield: 2nd Grenadier",
-		"panel_description" : "Use the Cannon to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 86,
+		"fd": "panel0085",
+		"panel_name": "Battlefield: 2nd Grenadier",
+		"panel_description": "Use the Cannon to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 87,
-		"fd" : "panel0086",
-		"panel_name" : "Battlefield: 3rd Grenadier",
-		"panel_description" : "Use the Cannon to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 87,
+		"fd": "panel0086",
+		"panel_name": "Battlefield: 3rd Grenadier",
+		"panel_description": "Use the Cannon to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 88,
-		"fd" : "panel0087",
-		"panel_name" : "Battlefield: 1st Sorcerer",
-		"panel_description" : "Use the Grimoire to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 88,
+		"fd": "panel0087",
+		"panel_name": "Battlefield: 1st Sorcerer",
+		"panel_description": "Use the Grimoire to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 89,
-		"fd" : "panel0088",
-		"panel_name" : "Battlefield: 2nd Sorcerer",
-		"panel_description" : "Use the Grimoire to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 89,
+		"fd": "panel0088",
+		"panel_name": "Battlefield: 2nd Sorcerer",
+		"panel_description": "Use the Grimoire to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 90,
-		"fd" : "panel0089",
-		"panel_name" : "Battlefield: 3rd Sorcerer",
-		"panel_description" : "Use the Grimoire to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 90,
+		"fd": "panel0089",
+		"panel_name": "Battlefield: 3rd Sorcerer",
+		"panel_description": "Use the Grimoire to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 91,
-		"fd" : "panel0090",
-		"panel_name" : "Battlefield: 1st Bard",
-		"panel_description" : "Use the Harp to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 91,
+		"fd": "panel0090",
+		"panel_name": "Battlefield: 1st Bard",
+		"panel_description": "Use the Harp to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 92,
-		"fd" : "panel0091",
-		"panel_name" : "Battlefield: 2nd Bard",
-		"panel_description" : "Use the Harp to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 92,
+		"fd": "panel0091",
+		"panel_name": "Battlefield: 2nd Bard",
+		"panel_description": "Use the Harp to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 93,
-		"fd" : "panel0092",
-		"panel_name" : "Battlefield: 3rd Bard",
-		"panel_description" : "Use the Harp to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 93,
+		"fd": "panel0092",
+		"panel_name": "Battlefield: 3rd Bard",
+		"panel_description": "Use the Harp to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 94,
-		"fd" : "panel0093",
-		"panel_name" : "Battlefield: 1st Brawler",
-		"panel_description" : "Use the Katar to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 94,
+		"fd": "panel0093",
+		"panel_name": "Battlefield: 1st Brawler",
+		"panel_description": "Use the Katar to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 95,
-		"fd" : "panel0094",
-		"panel_name" : "Battlefield: 2nd Brawler",
-		"panel_description" : "Use the Katar to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 95,
+		"fd": "panel0094",
+		"panel_name": "Battlefield: 2nd Brawler",
+		"panel_description": "Use the Katar to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 96,
-		"fd" : "panel0095",
-		"panel_name" : "Battlefield: 3rd Brawler",
-		"panel_description" : "Use the Katar to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 96,
+		"fd": "panel0095",
+		"panel_name": "Battlefield: 3rd Brawler",
+		"panel_description": "Use the Katar to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 97,
-		"fd" : "panel0096",
-		"panel_name" : "Battlefield: 1st Ranger",
-		"panel_description" : "Use the War Bow to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 97,
+		"fd": "panel0096",
+		"panel_name": "Battlefield: 1st Ranger",
+		"panel_description": "Use the War Bow to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 98,
-		"fd" : "panel0097",
-		"panel_name" : "Battlefield: 2nd Ranger",
-		"panel_description" : "Use the War Bow to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 98,
+		"fd": "panel0097",
+		"panel_name": "Battlefield: 2nd Ranger",
+		"panel_description": "Use the War Bow to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 99,
-		"fd" : "panel0098",
-		"panel_name" : "Battlefield: 3rd Ranger",
-		"panel_description" : "Use the War Bow to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 99,
+		"fd": "panel0098",
+		"panel_name": "Battlefield: 3rd Ranger",
+		"panel_description": "Use the War Bow to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 100,
-		"fd" : "panel0099",
-		"panel_name" : "Battlefield: 1st Ronin",
-		"panel_description" : "Use the Katana to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 100,
+		"fd": "panel0099",
+		"panel_name": "Battlefield: 1st Ronin",
+		"panel_description": "Use the Katana to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 101,
-		"fd" : "panel0100",
-		"panel_name" : "Battlefield: 2nd Ronin",
-		"panel_description" : "Use the Katana to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 101,
+		"fd": "panel0100",
+		"panel_name": "Battlefield: 2nd Ronin",
+		"panel_description": "Use the Katana to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 102,
-		"fd" : "panel0101",
-		"panel_name" : "Battlefield: 3rd Ronin",
-		"panel_description" : "Use the Katana to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 102,
+		"fd": "panel0101",
+		"panel_name": "Battlefield: 3rd Ronin",
+		"panel_description": "Use the Katana to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 103,
-		"fd" : "panel0102",
-		"panel_name" : "Battlefield: 1st Reaper",
-		"panel_description" : "Use the Scythe to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 103,
+		"fd": "panel0102",
+		"panel_name": "Battlefield: 1st Reaper",
+		"panel_description": "Use the Scythe to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 104,
-		"fd" : "panel0103",
-		"panel_name" : "Battlefield: 2nd Reaper",
-		"panel_description" : "Use the Scythe to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 104,
+		"fd": "panel0103",
+		"panel_name": "Battlefield: 2nd Reaper",
+		"panel_description": "Use the Scythe to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 105,
-		"fd" : "panel0104",
-		"panel_name" : "Battlefield: 3rd Reaper",
-		"panel_description" : "Use the Scythe to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 105,
+		"fd": "panel0104",
+		"panel_name": "Battlefield: 3rd Reaper",
+		"panel_description": "Use the Scythe to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 106,
-		"fd" : "panel0105",
-		"panel_name" : "Battlefield: 1st Crusader",
-		"panel_description" : "Use the Holy Sword to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 106,
+		"fd": "panel0105",
+		"panel_name": "Battlefield: 1st Crusader",
+		"panel_description": "Use the Holy Sword to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 107,
-		"fd" : "panel0106",
-		"panel_name" : "Battlefield: 2nd Crusader",
-		"panel_description" : "Use the Holy Sword to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 107,
+		"fd": "panel0106",
+		"panel_name": "Battlefield: 2nd Crusader",
+		"panel_description": "Use the Holy Sword to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 108,
-		"fd" : "panel0107",
-		"panel_name" : "Battlefield: 3rd Crusader",
-		"panel_description" : "Use the Holy Sword to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 108,
+		"fd": "panel0107",
+		"panel_name": "Battlefield: 3rd Crusader",
+		"panel_description": "Use the Holy Sword to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 109,
-		"fd" : "panel0108",
-		"panel_name" : "Battlefield: 1st Shinobi",
-		"panel_description" : "Use the Shuriken to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 109,
+		"fd": "panel0108",
+		"panel_name": "Battlefield: 1st Shinobi",
+		"panel_description": "Use the Shuriken to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 110,
-		"fd" : "panel0109",
-		"panel_name" : "Battlefield: 2nd Shinobi",
-		"panel_description" : "Use the Shuriken to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 110,
+		"fd": "panel0109",
+		"panel_name": "Battlefield: 2nd Shinobi",
+		"panel_description": "Use the Shuriken to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 111,
-		"fd" : "panel0110",
-		"panel_name" : "Battlefield: 3rd Shinobi",
-		"panel_description" : "Use the Shuriken to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 111,
+		"fd": "panel0110",
+		"panel_name": "Battlefield: 3rd Shinobi",
+		"panel_description": "Use the Shuriken to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 112,
-		"fd" : "panel0111",
-		"panel_name" : "Battlefield: 1st Lancer",
-		"panel_description" : "Use the Lance to achieve the #1 spot in the Battlefield Champion ranking."
+		"id": 112,
+		"fd": "panel0111",
+		"panel_name": "Battlefield: 1st Lancer",
+		"panel_description": "Use the Lance to achieve the #1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 113,
-		"fd" : "panel0112",
-		"panel_name" : "Battlefield: 2nd Lancer",
-		"panel_description" : "Use the Lance to achieve the #2 spot in the Battlefield Champion ranking."
+		"id": 113,
+		"fd": "panel0112",
+		"panel_name": "Battlefield: 2nd Lancer",
+		"panel_description": "Use the Lance to achieve the #2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 114,
-		"fd" : "panel0113",
-		"panel_name" : "Battlefield: 3rd Lancer",
-		"panel_description" : "Use the Lance to achieve the #3 spot in the Battlefield Champion ranking."
+		"id": 114,
+		"fd": "panel0113",
+		"panel_name": "Battlefield: 3rd Lancer",
+		"panel_description": "Use the Lance to achieve the #3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 115,
-		"fd" : "panel0114",
-		"panel_name" : "1st Refiner",
-		"panel_description" : "Forging Grand Master Ranking: #1"
+		"id": 115,
+		"fd": "panel0114",
+		"panel_name": "1st Refiner",
+		"panel_description": "Forging Grand Master Ranking: #1"
 	},
 	{
-		"id" : 116,
-		"fd" : "panel0115",
-		"panel_name" : "2nd Refiner",
-		"panel_description" : "Forging Grand Master Ranking: #2"
+		"id": 116,
+		"fd": "panel0115",
+		"panel_name": "2nd Refiner",
+		"panel_description": "Forging Grand Master Ranking: #2"
 	},
 	{
-		"id" : 117,
-		"fd" : "panel0116",
-		"panel_name" : "3rd Refiner",
-		"panel_description" : "Forging Grand Master Ranking: #3"
+		"id": 117,
+		"fd": "panel0116",
+		"panel_name": "3rd Refiner",
+		"panel_description": "Forging Grand Master Ranking: #3"
 	},
 	{
-		"id" : 118,
-		"fd" : "panel0117",
-		"panel_name" : "1st Famous Goddess",
-		"panel_description" : "Famous Goddess Ranking: #1"
+		"id": 118,
+		"fd": "panel0117",
+		"panel_name": "1st Famous Goddess",
+		"panel_description": "Famous Goddess Ranking: #1"
 	},
 	{
-		"id" : 119,
-		"fd" : "panel0118",
-		"panel_name" : "2nd Famous Goddess",
-		"panel_description" : "Famous Goddess Ranking: #2"
+		"id": 119,
+		"fd": "panel0118",
+		"panel_name": "2nd Famous Goddess",
+		"panel_description": "Famous Goddess Ranking: #2"
 	},
 	{
-		"id" : 120,
-		"fd" : "panel0119",
-		"panel_name" : "3rd Famous Goddess",
-		"panel_description" : "Famous Goddess Ranking: #3"
+		"id": 120,
+		"fd": "panel0119",
+		"panel_name": "3rd Famous Goddess",
+		"panel_description": "Famous Goddess Ranking: #3"
 	},
 	{
-		"id" : 121,
-		"fd" : "panel0120",
-		"panel_name" : "1st Famous Rockstar",
-		"panel_description" : "Famous Rockstar Ranking: #1"
+		"id": 121,
+		"fd": "panel0120",
+		"panel_name": "1st Famous Rockstar",
+		"panel_description": "Famous Rockstar Ranking: #1"
 	},
 	{
-		"id" : 122,
-		"fd" : "panel0121",
-		"panel_name" : "2nd Famous Rockstar",
-		"panel_description" : "Famous Rockstar Ranking: #2"
+		"id": 122,
+		"fd": "panel0121",
+		"panel_name": "2nd Famous Rockstar",
+		"panel_description": "Famous Rockstar Ranking: #2"
 	},
 	{
-		"id" : 123,
-		"fd" : "panel0122",
-		"panel_name" : "3rd Famous Rockstar",
-		"panel_description" : "Famous Rockstar Ranking: #3"
+		"id": 123,
+		"fd": "panel0122",
+		"panel_name": "3rd Famous Rockstar",
+		"panel_description": "Famous Rockstar Ranking: #3"
 	},
 	{
-		"id" : 124,
-		"fd" : "panel0123",
-		"panel_name" : "1st Card Duelist",
-		"panel_description" : "Card Duel Master Ranking: #1"
+		"id": 124,
+		"fd": "panel0123",
+		"panel_name": "1st Card Duelist",
+		"panel_description": "Card Duel Master Ranking: #1"
 	},
 	{
-		"id" : 125,
-		"fd" : "panel0124",
-		"panel_name" : "2nd Card Duelist",
-		"panel_description" : "Card Duel Master Ranking: #2"
+		"id": 125,
+		"fd": "panel0124",
+		"panel_name": "2nd Card Duelist",
+		"panel_description": "Card Duel Master Ranking: #2"
 	},
 	{
-		"id" : 126,
-		"fd" : "panel0125",
-		"panel_name" : "3rd Card Duelist",
-		"panel_description" : "Card Duel Master Ranking: #3"
+		"id": 126,
+		"fd": "panel0125",
+		"panel_name": "3rd Card Duelist",
+		"panel_description": "Card Duel Master Ranking: #3"
 	},
 	{
-		"id" : 127,
-		"fd" : "panel0126",
-		"panel_name" : "Fishing Expert UI",
-		"panel_description" : "Fishing Level reached: \"Legendary Angler"
+		"id": 127,
+		"fd": "panel0126",
+		"panel_name": "Fishing Expert UI",
+		"panel_description": "Fishing Level reached: \"Legendary Angler\""
 	},
 	{
-		"id" : 128,
-		"fd" : "panel0127",
-		"panel_name" : "Archeology Expert UI",
-		"panel_description" : "Archeology Level reached: \"Legendary Archeologist"
+		"id": 128,
+		"fd": "panel0127",
+		"panel_name": "Archeology Expert UI",
+		"panel_description": "Archeology Level reached: \"Legendary Archeologist\""
 	},
 	{
-		"id" : 129,
-		"fd" : "panel0128",
-		"panel_name" : "Gathering Expert UI",
-		"panel_description" : "Collecting Level reached: \"Legendary Gatherer"
+		"id": 129,
+		"fd": "panel0128",
+		"panel_name": "Gathering Expert UI",
+		"panel_description": "Collecting Level reached: \"Legendary Gatherer\""
 	},
 	{
-		"id" : 130,
-		"fd" : "panel0129",
-		"panel_name" : "Cooking Expert UI",
-		"panel_description" : "Cooking Level reached: \"Legendary Cook"
+		"id": 130,
+		"fd": "panel0129",
+		"panel_name": "Cooking Expert UI",
+		"panel_description": "Cooking Level reached: \"Legendary Cook\""
 	},
 	{
-		"id" : 131,
-		"fd" : "panel0130",
-		"panel_name" : "House Expert UI",
-		"panel_description" : "Housing Level reached: \"Architectural Apotheosis"
+		"id": 131,
+		"fd": "panel0130",
+		"panel_name": "House Expert UI",
+		"panel_description": "Housing Level reached: \"Architectural Apotheosis\""
 	},
 	{
-		"id" : 132,
-		"fd" : "panel0131",
-		"panel_name" : "Guardian Knight UI",
-		"panel_description" : "Guardian Knight Level reaches \"Lv10 Guardian Knight"
+		"id": 132,
+		"fd": "panel0131",
+		"panel_name": "Guardian Knight UI",
+		"panel_description": "Guardian Knight Level reaches \"Lv10 Guardian Knight\""
 	},
 	{
-		"id" : 133,
-		"fd" : "panel0132",
-		"panel_name" : "Card Expert UI",
-		"panel_description" : "Duel Level reaches \"Card Apocalypse"
+		"id": 133,
+		"fd": "panel0132",
+		"panel_name": "Card Expert UI",
+		"panel_description": "Duel Level reaches \"Card Apocalypse\""
 	},
 	{
-		"id" : 134,
-		"fd" : "panel0133",
-		"panel_name" : "Power of Awakening",
-		"panel_description" : "Through the mission \"Envoy's Awakening\"."
+		"id": 134,
+		"fd": "panel0133",
+		"panel_name": "Power of Awakening",
+		"panel_description": "Through the mission \"Envoy's Awakening\"."
 	},
 	{
-		"id" : 135,
-		"fd" : "panel0134",
-		"panel_name" : "Rockstar Elite UI",
-		"panel_description" : "Use the Guitar to reach 1000 kills on the Battlefield or in the Arena."
+		"id": 135,
+		"fd": "panel0134",
+		"panel_name": "Rockstar Elite UI",
+		"panel_description": "Use the Guitar to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 136,
-		"fd" : "panel0135",
-		"panel_name" : "Arena: 1st Rockstar",
-		"panel_description" : "Use the Guitar to achieve the #1 spot in the Arena ranking."
+		"id": 136,
+		"fd": "panel0135",
+		"panel_name": "Arena: 1st Rockstar",
+		"panel_description": "Use the Guitar to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 137,
-		"fd" : "panel0136",
-		"panel_name" : "Arena: 2nd Rockstar",
-		"panel_description" : "Use the Guitar to achieve the #2 spot in the Arena ranking."
+		"id": 137,
+		"fd": "panel0136",
+		"panel_name": "Arena: 2nd Rockstar",
+		"panel_description": "Use the Guitar to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 138,
-		"fd" : "panel0137",
-		"panel_name" : "Arena: 3rd Rockstar",
-		"panel_description" : "Use the Guitar to achieve the #3 spot in the Arena ranking."
+		"id": 138,
+		"fd": "panel0137",
+		"panel_name": "Arena: 3rd Rockstar",
+		"panel_description": "Use the Guitar to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 139,
-		"fd" : "panel0138",
-		"panel_name" : "Battlefield: 1st Rockstar",
-		"panel_description" : "Use the Guitar to achieve the #1 spot in the Arena ranking."
+		"id": 139,
+		"fd": "panel0138",
+		"panel_name": "Battlefield: 1st Rockstar",
+		"panel_description": "Use the Guitar to achieve the #1 spot in the Arena ranking."
 	},
 	{
-		"id" : 140,
-		"fd" : "panel0139",
-		"panel_name" : "Battlefield: 2nd Rockstar",
-		"panel_description" : "Use the Guitar to achieve the #2 spot in the Arena ranking."
+		"id": 140,
+		"fd": "panel0139",
+		"panel_name": "Battlefield: 2nd Rockstar",
+		"panel_description": "Use the Guitar to achieve the #2 spot in the Arena ranking."
 	},
 	{
-		"id" : 141,
-		"fd" : "panel0140",
-		"panel_name" : "Battlefield: 3rd Rockstar",
-		"panel_description" : "Use the Guitar to achieve the #3 spot in the Arena ranking."
+		"id": 141,
+		"fd": "panel0140",
+		"panel_name": "Battlefield: 3rd Rockstar",
+		"panel_description": "Use the Guitar to achieve the #3 spot in the Arena ranking."
 	},
 	{
-		"id" : 142,
-		"fd" : "panel0141",
-		"panel_name" : "Star Caller Elite UI",
-		"panel_description" : "Use the Draco-Puppet and reach 1000 kills on the Battlefield or in the Arena."
+		"id": 142,
+		"fd": "panel0141",
+		"panel_name": "Star Caller Elite UI",
+		"panel_description": "Use the Draco-Puppet and reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 143,
-		"fd" : "panel0142",
-		"panel_name" : "Arena: 1st Star Caller",
-		"panel_description" : "Use the Draco-Puppet to achieve the 1 spot in the Arena ranking."
+		"id": 143,
+		"fd": "panel0142",
+		"panel_name": "Arena: 1st Star Caller",
+		"panel_description": "Use the Draco-Puppet to achieve the 1 spot in the Arena ranking."
 	},
 	{
-		"id" : 144,
-		"fd" : "panel0143",
-		"panel_name" : "Arena: 2nd Star Caller",
-		"panel_description" : "Use the Draco-Puppet to achieve the 2 spot in the Arena ranking."
+		"id": 144,
+		"fd": "panel0143",
+		"panel_name": "Arena: 2nd Star Caller",
+		"panel_description": "Use the Draco-Puppet to achieve the 2 spot in the Arena ranking."
 	},
 	{
-		"id" : 145,
-		"fd" : "panel0144",
-		"panel_name" : "Arena: 3rd Star Caller",
-		"panel_description" : "Use the Draco-Puppet to achieve the 3 spot in the Arena ranking."
+		"id": 145,
+		"fd": "panel0144",
+		"panel_name": "Arena: 3rd Star Caller",
+		"panel_description": "Use the Draco-Puppet to achieve the 3 spot in the Arena ranking."
 	},
 	{
-		"id" : 146,
-		"fd" : "panel0145",
-		"panel_name" : "Battlefield: 1st Star Caller",
-		"panel_description" : "Use the Draco-Puppet to achieve the 1 spot in the Battlefield Champion ranking."
+		"id": 146,
+		"fd": "panel0145",
+		"panel_name": "Battlefield: 1st Star Caller",
+		"panel_description": "Use the Draco-Puppet to achieve the 1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 147,
-		"fd" : "panel0146",
-		"panel_name" : "Battlefield: 2nd Star Caller",
-		"panel_description" : "Use the Draco-Puppet to achieve the 2 spot in the Battlefield Champion ranking."
+		"id": 147,
+		"fd": "panel0146",
+		"panel_name": "Battlefield: 2nd Star Caller",
+		"panel_description": "Use the Draco-Puppet to achieve the 2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 148,
-		"fd" : "panel0147",
-		"panel_name" : "Battlefield: 3rd Star Caller",
-		"panel_description" : "Use the Draco-Puppet to achieve the 3 spot in the Battlefield Champion ranking."
+		"id": 148,
+		"fd": "panel0147",
+		"panel_name": "Battlefield: 3rd Star Caller",
+		"panel_description": "Use the Draco-Puppet to achieve the 3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 149,
-		"fd" : "panel0148",
-		"panel_name" : "Popular Chibi Champion",
-		"panel_description" : "Popular Chibi Ranking: 1"
+		"id": 149,
+		"fd": "panel0148",
+		"panel_name": "Popular Chibi Champion",
+		"panel_description": "Popular Chibi Ranking: 1"
 	},
 	{
-		"id" : 150,
-		"fd" : "panel0149",
-		"panel_name" : "Popular Chibi 1st Runner up",
-		"panel_description" : "Popular Chibi Ranking: 2"
+		"id": 150,
+		"fd": "panel0149",
+		"panel_name": "Popular Chibi 1st Runner up",
+		"panel_description": "Popular Chibi Ranking: 2"
 	},
 	{
-		"id" : 151,
-		"fd" : "panel0150",
-		"panel_name" : "Popular Chibi 2nd Runner up",
-		"panel_description" : "Popular Chibi Ranking: 3"
+		"id": 151,
+		"fd": "panel0150",
+		"panel_name": "Popular Chibi 2nd Runner up",
+		"panel_description": "Popular Chibi Ranking: 3"
 	},
 	{
-		"id" : 159,
-		"fd" : "panel0158",
-		"panel_name" : "GM-Wish-Panel",
-		"panel_description" : "Unlocked via purchasing a GM wish"
+		"id": 152,
+		"fd": "panel0151",
+		"panel_name": "Whipmaster Elite UI",
+		"panel_description": "Use the Divine Whip to reach 1000 kills on the Battlefield or in the Arena."
 	},
 	{
-		"id" : 160,
-		"fd" : "panel0159",
-		"panel_name" : "Christmas Panel 1",
-		"panel_description" : "Obtained by feeding C A N D Y to Santa Lumikki."
+		"id": 153,
+		"fd": "panel0152",
+		"panel_name": "Arena: 1st Whipmaster",
+		"panel_description": "Use the Divine Whip to achieve the 1 spot in the Arena ranking."
 	},
 	{
-		"id" : 161,
-		"fd" : "panel0160",
-		"panel_name" : "Christmas Panel 2",
-		"panel_description" : "Obtained by feeding C A N D Y to Santa Lumikki."
+		"id": 154,
+		"fd": "panel0153",
+		"panel_name": "Arena: 2nd Whipmaster",
+		"panel_description": "Use the Divine Whip to achieve the 2 spot in the Arena ranking."
 	},
 	{
-		"id" : 162,
-		"fd" : "panel0161",
-		"panel_name" : "Christmas Panel 3",
-		"panel_description" : "Obtained by feeding C A N D Y to Santa Lumikki."
+		"id": 155,
+		"fd": "panel0154",
+		"panel_name": "Arena: 3rd Whipmaster",
+		"panel_description": "Use the Divine Whip to achieve the 3 spot in the Arena ranking."
 	},
 	{
-		"id" : 163,
-		"fd" : "panel0162",
-		"panel_name" : "Love Panel 1",
-		"panel_description" : "Obtained by spreading L O V E to Venus."
+		"id": 156,
+		"fd": "panel0155",
+		"panel_name": "Battlefield: 1st Whipmaster",
+		"panel_description": "Use the Divine Whip to achieve the 1 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 164,
-		"fd" : "panel0163",
-		"panel_name" : "Love Panel 2",
-		"panel_description" : "Obtained by spreading L O V E to Venus."
+		"id": 157,
+		"fd": "panel0156",
+		"panel_name": "Battlefield: 2nd Whipmaster",
+		"panel_description": "Use the Divine Whip to achieve the 2 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 165,
-		"fd" : "panel0164",
-		"panel_name" : "Love Panel 3",
-		"panel_description" : "Obtained by joining a special Valentine CM Event."
+		"id": 158,
+		"fd": "panel0157",
+		"panel_name": "Battlefield: 3rd Whipmaster",
+		"panel_description": "Use the Divine Whip to achieve the 3 spot in the Battlefield Champion ranking."
 	},
 	{
-		"id" : 166,
-		"fd" : "panel0165",
-		"panel_name" : "GS Panel",
-		"panel_description" : "Obtained by being a GS. Duration 30 days."
+		"id": 159,
+		"fd": "panel0158",
+		"panel_name": "GM-Wish-Panel",
+		"panel_description": "Unlocked via purchasing a GM wish"
 	},
 	{
-		"id" : 167,
-		"fd" : "panel0166",
-		"panel_name" : "Sakura Panel 1",
-		"panel_description" : "Obtained by giving SAKURA to Sakuya-hime."
+		"id": 160,
+		"fd": "panel0159",
+		"panel_name": "Christmas Panel 1",
+		"panel_description": "Obtained by feeding C A N D Y to Santa Lumikki."
 	},
 	{
-		"id" : 168,
-		"fd" : "panel0167",
-		"panel_name" : "Sakura Panel 2",
-		"panel_description" : "Obtained by giving SAKURA to Sakuya-hime."
+		"id": 161,
+		"fd": "panel0160",
+		"panel_name": "Christmas Panel 2",
+		"panel_description": "Obtained by feeding C A N D Y to Santa Lumikki."
 	},
 	{
-		"id" : 169,
-		"fd" : "panel0168",
-		"panel_name" : "Sakura Panel 3",
-		"panel_description" : "Obtained from several different CM events."
+		"id": 162,
+		"fd": "panel0161",
+		"panel_name": "Christmas Panel 3",
+		"panel_description": "Obtained by feeding C A N D Y to Santa Lumikki."
 	},
 	{
-		"id" : 170,
-		"fd" : "panel0169",
-		"panel_name" : "Sakura Panel 4",
-		"panel_description" : "Obtained from ???"
+		"id": 163,
+		"fd": "panel0162",
+		"panel_name": "Love Panel 1",
+		"panel_description": "Obtained by spreading L O V E to Venus."
 	},
 	{
-		"id" : 171,
-		"fd" : "panel0170",
-		"panel_name" : "Divine Duelist Panel",
-		"panel_description" : "Reach level 120 with Duelist."
+		"id": 164,
+		"fd": "panel0163",
+		"panel_name": "Love Panel 2",
+		"panel_description": "Obtained by spreading L O V E to Venus."
 	},
 	{
-		"id" : 172,
-		"fd" : "panel0171",
-		"panel_name" : "Divine Paladin Panel",
-		"panel_description" : "Reach level 120 with Paladin."
+		"id": 165,
+		"fd": "panel0164",
+		"panel_name": "Love Panel 3",
+		"panel_description": "Obtained by joining a special Valentine CM Event."
 	},
 	{
-		"id" : 173,
-		"fd" : "panel0172",
-		"panel_name" : "Divine Ravager Panel",
-		"panel_description" : "Reach level 120 with Ravager."
+		"id": 166,
+		"fd": "panel0165",
+		"panel_name": "GS Panel",
+		"panel_description": "Obtained by being a GS. Duration 30 days."
 	},
 	{
-		"id" : 174,
-		"fd" : "panel0173",
-		"panel_name" : "Divine Wizard Panel",
-		"panel_description" : "Reach level 120 with Wizard."
+		"id": 167,
+		"fd": "panel0166",
+		"panel_name": "Sakura Panel 1",
+		"panel_description": "Obtained by giving SAKURA to Sakuya-hime."
 	},
 	{
-		"id" : 175,
-		"fd" : "panel0174",
-		"panel_name" : "Divine Gunslinger Panel",
-		"panel_description" : "Reach level 120 with Gunslinger."
+		"id": 168,
+		"fd": "panel0167",
+		"panel_name": "Sakura Panel 2",
+		"panel_description": "Obtained by giving SAKURA to Sakuya-hime."
 	},
 	{
-		"id" : 176,
-		"fd" : "panel0175",
-		"panel_name" : "Divine Grenadier Panel",
-		"panel_description" : "Reach level 120 with Grenadier."
+		"id": 169,
+		"fd": "panel0168",
+		"panel_name": "Sakura Panel 3",
+		"panel_description": "Obtained from several different CM events."
 	},
 	{
-		"id" : 177,
-		"fd" : "panel0176",
-		"panel_name" : "Divine Sorcerer Panel",
-		"panel_description" : "Reach level 120 with Sorcerer."
+		"id": 170,
+		"fd": "panel0169",
+		"panel_name": "Sakura Panel 4",
+		"panel_description": "Obtained from ???"
 	},
 	{
-		"id" : 178,
-		"fd" : "panel0177",
-		"panel_name" : "Divine Bard Panel",
-		"panel_description" : "Reach level 120 with Bard."
+		"id": 171,
+		"fd": "panel0170",
+		"panel_name": "Divine Duelist Panel",
+		"panel_description": "Reach level 120 with Duelist."
 	},
 	{
-		"id" : 179,
-		"fd" : "panel0178",
-		"panel_name" : "Divine Brawler Panel",
-		"panel_description" : "Reach level 120 with Brawler."
+		"id": 172,
+		"fd": "panel0171",
+		"panel_name": "Divine Paladin Panel",
+		"panel_description": "Reach level 120 with Paladin."
 	},
 	{
-		"id" : 180,
-		"fd" : "panel0179",
-		"panel_name" : "Divine Ranger Panel",
-		"panel_description" : "Reach level 120 with Ranger."
+		"id": 173,
+		"fd": "panel0172",
+		"panel_name": "Divine Ravager Panel",
+		"panel_description": "Reach level 120 with Ravager."
 	},
 	{
-		"id" : 181,
-		"fd" : "panel0180",
-		"panel_name" : "Divine Ronin Panel",
-		"panel_description" : "Reach level 120 with Ronin."
+		"id": 174,
+		"fd": "panel0173",
+		"panel_name": "Divine Wizard Panel",
+		"panel_description": "Reach level 120 with Wizard."
 	},
 	{
-		"id" : 182,
-		"fd" : "panel0181",
-		"panel_name" : "Divine Reaper Panel",
-		"panel_description" : "Reach level 120 with Reaper."
+		"id": 175,
+		"fd": "panel0174",
+		"panel_name": "Divine Gunslinger Panel",
+		"panel_description": "Reach level 120 with Gunslinger."
 	},
 	{
-		"id" : 183,
-		"fd" : "panel0182",
-		"panel_name" : "Divine Crusader Panel",
-		"panel_description" : "Reach level 120 with Crusader."
+		"id": 176,
+		"fd": "panel0175",
+		"panel_name": "Divine Grenadier Panel",
+		"panel_description": "Reach level 120 with Grenadier."
 	},
 	{
-		"id" : 184,
-		"fd" : "panel0183",
-		"panel_name" : "Divine Shinobi Panel",
-		"panel_description" : "Reach level 120 with Shinobi."
+		"id": 177,
+		"fd": "panel0176",
+		"panel_name": "Divine Sorcerer Panel",
+		"panel_description": "Reach level 120 with Sorcerer."
 	},
 	{
-		"id" : 185,
-		"fd" : "panel0184",
-		"panel_name" : "Divine Lancer Panel",
-		"panel_description" : "Reach level 120 with Lancer."
+		"id": 178,
+		"fd": "panel0177",
+		"panel_name": "Divine Bard Panel",
+		"panel_description": "Reach level 120 with Bard."
 	},
 	{
-		"id" : 186,
-		"fd" : "panel0185",
-		"panel_name" : "Divine Rock Star Panel",
-		"panel_description" : "Reach level 120 with Rock Star."
+		"id": 179,
+		"fd": "panel0178",
+		"panel_name": "Divine Brawler Panel",
+		"panel_description": "Reach level 120 with Brawler."
 	},
 	{
-		"id" : 187,
-		"fd" : "panel0186",
-		"panel_name" : "Divine Star Caller Panel",
-		"panel_description" : "Reach level 120 with Star Caller."
+		"id": 180,
+		"fd": "panel0179",
+		"panel_name": "Divine Ranger Panel",
+		"panel_description": "Reach level 120 with Ranger."
 	},
 	{
-		"id" : 188,
-		"fd" : "panel0187",
-		"panel_name" : "Divine Whip Master Panel",
-		"panel_description" : "Reach level 120 with Whip Master."
+		"id": 181,
+		"fd": "panel0180",
+		"panel_name": "Divine Ronin Panel",
+		"panel_description": "Reach level 120 with Ronin."
 	},
 	{
-		"id" : 189,
-		"fd" : "panel0188",
-		"panel_name" : "Summer Panel 1",
-		"panel_description" : "Obtained by giving SUMMER to Summer Nidhogg."
+		"id": 182,
+		"fd": "panel0181",
+		"panel_name": "Divine Reaper Panel",
+		"panel_description": "Reach level 120 with Reaper."
 	},
 	{
-		"id" : 190,
-		"fd" : "panel0189",
-		"panel_name" : "Summer Panel 2",
-		"panel_description" : "Obtained by giving SUMMER to Summer Nidhogg."
+		"id": 183,
+		"fd": "panel0182",
+		"panel_name": "Divine Crusader Panel",
+		"panel_description": "Reach level 120 with Crusader."
 	},
 	{
-		"id" : 191,
-		"fd" : "panel0190",
-		"panel_name" : "Summer Panel 3",
-		"panel_description" : "Obtained from several different CM events."
+		"id": 184,
+		"fd": "panel0183",
+		"panel_name": "Divine Shinobi Panel",
+		"panel_description": "Reach level 120 with Shinobi."
 	},
 	{
-		"id" : 192,
-		"fd" : "panel0191",
-		"panel_name" : "Summer Panel 4",
-		"panel_description" : "Obtained from ???"
+		"id": 185,
+		"fd": "panel0184",
+		"panel_name": "Divine Lancer Panel",
+		"panel_description": "Reach level 120 with Lancer."
+	},
+	{
+		"id": 186,
+		"fd": "panel0185",
+		"panel_name": "Divine Rock Star Panel",
+		"panel_description": "Reach level 120 with Rock Star."
+	},
+	{
+		"id": 187,
+		"fd": "panel0186",
+		"panel_name": "Divine Star Caller Panel",
+		"panel_description": "Reach level 120 with Star Caller."
+	},
+	{
+		"id": 188,
+		"fd": "panel0187",
+		"panel_name": "Divine Whipmaster Panel",
+		"panel_description": "Reach level 120 with Whip Master."
+	},
+	{
+		"id": 189,
+		"fd": "panel0188",
+		"panel_name": "Summer Panel 1",
+		"panel_description": "Obtained by giving SUMMER to Summer Nidhogg."
+	},
+	{
+		"id": 190,
+		"fd": "panel0189",
+		"panel_name": "Summer Panel 2",
+		"panel_description": "Obtained by giving SUMMER to Summer Nidhogg."
+	},
+	{
+		"id": 191,
+		"fd": "panel0190",
+		"panel_name": "Summer Panel 3",
+		"panel_description": "Obtained from several different CM events."
+	},
+	{
+		"id": 192,
+		"fd": "panel0191",
+		"panel_name": "Summer Panel 4",
+		"panel_description": "Obtained from ???"
+	},
+	{
+		"id": 204,
+		"fd": "panel0200",
+		"panel_name": "GM-Wish-Panel 1",
+		"panel_description": "Unlocked via purchasing a special GM wish"
+	},
+	{
+		"id": 205,
+		"fd": "panel0201",
+		"panel_name": "GM-Wish-Panel 2",
+		"panel_description": "Unlocked via purchasing a special GM wish"
+	},
+	{
+		"id": 206,
+		"fd": "panel0202",
+		"panel_name": "GM-Wish-Panel 3",
+		"panel_description": "Unlocked via purchasing a special GM wish"
+	},
+	{
+		"id": 207,
+		"fd": "panel0203",
+		"panel_name": "Rachel Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 208,
+		"fd": "panel0204",
+		"panel_name": "Raphael Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 209,
+		"fd": "panel0205",
+		"panel_name": "Salome Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 210,
+		"fd": "panel0206",
+		"panel_name": "Summer Alucard Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 211,
+		"fd": "panel0207",
+		"panel_name": "Summer Michaela Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 212,
+		"fd": "panel0208",
+		"panel_name": "Summer Nidhogg Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 213,
+		"fd": "panel0209",
+		"panel_name": "Summer Persephone Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 215,
+		"fd": "panel0211",
+		"panel_name": "GS Event Panel 1",
+		"panel_description": "Obtained from GS Events."
+	},
+	{
+		"id": 216,
+		"fd": "panel0212",
+		"panel_name": "GS Event Panel 2",
+		"panel_description": "Obtained from GS Events."
+	},
+	{
+		"id": 217,
+		"fd": "panel0213",
+		"panel_name": "GS Event Panel 3",
+		"panel_description": "Obtained from GS Events."
+	},
+	{
+		"id": 219,
+		"fd": "panel0215",
+		"panel_name": "Halloween Panel 1",
+		"panel_description": "Obtained by giving T R E A T to Halloween Zephyrine."
+	},
+	{
+		"id": 220,
+		"fd": "panel0216",
+		"panel_name": "Halloween Panel 2",
+		"panel_description": "Obtained by giving T R E A T to Halloween Zephyrine."
+	},
+	{
+		"id": 221,
+		"fd": "panel0217",
+		"panel_name": "Halloween Panel 3",
+		"panel_description": "Obtained by giving T R E A T to Halloween Zephyrine."
+	},
+	{
+		"id": 222,
+		"fd": "panel0218",
+		"panel_name": "Halloween Panel 4",
+		"panel_description": "Obtained from several different CM events."
+	},
+	{
+		"id": 223,
+		"fd": "panel0219",
+		"panel_name": "Halloween Panel 5",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 224,
+		"fd": "panel0220",
+		"panel_name": "Halloween Zashi Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 225,
+		"fd": "panel0221",
+		"panel_name": "Halloween Zephyrine Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 228,
+		"fd": "panel0224",
+		"panel_name": "Christmas Panel 4",
+		"panel_description": "Obtained by feeding C A N D Y to Santa Idun."
+	},
+	{
+		"id": 229,
+		"fd": "panel0225",
+		"panel_name": "Christmas Panel 5",
+		"panel_description": "Obtained by feeding C A N D Y to Santa Idun."
+	},
+	{
+		"id": 230,
+		"fd": "panel0226",
+		"panel_name": "Christmas Panel 6",
+		"panel_description": "Obtained by feeding C A N D Y to Santa Idun."
+	},
+	{
+		"id": 231,
+		"fd": "panel0227",
+		"panel_name": "Christmas Panel 7",
+		"panel_description": "Obtained from several different CM events."
+	},
+	{
+		"id": 232,
+		"fd": "panel0228",
+		"panel_name": "Christmas Panel 8",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 233,
+		"fd": "panel0229",
+		"panel_name": "New Year Panel",
+		"panel_description": "Obtained from several different CM events."
+	},
+	{
+		"id": 234,
+		"fd": "panel0230",
+		"panel_name": "Santa Alice Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 235,
+		"fd": "panel0231",
+		"panel_name": "Santa Amaterasu Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 236,
+		"fd": "panel0232",
+		"panel_name": "Santa Ayako Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 237,
+		"fd": "panel0233",
+		"panel_name": "Santa Idun Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 238,
+		"fd": "panel0234",
+		"panel_name": "Santa Lumikki Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 239,
+		"fd": "panel0235",
+		"panel_name": "Santa Muse Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 240,
+		"fd": "panel0236",
+		"panel_name": "Santa Raphael Panel",
+		"panel_description": "Unlocked via ???"
+	},
+	{
+		"id": 241,
+		"fd": "panel0237",
+		"panel_name": "Santa Tyr Panel",
+		"panel_description": "Unlocked via ???"
 	}
 ]
