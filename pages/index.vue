@@ -83,7 +83,7 @@ export default {
   methods: {
     getPanelAssetPath(p) {
       const filename = this.panelsAssetDb[p.fd];
-      return `images/${filename}.png`
+      return filename;
     },
 
     getPanelInfoByFd(fd) {
