@@ -21,9 +21,7 @@
         >
           <img :src="getPanelAssetPath(p)" :alt="p.fd" />
           <div class="relative">
-            <code class="text-blue-400">
-            {{ p.panel_name }}</code
-          >
+            <code class="text-blue-400"> {{ p.panel_name }}</code >
             <code class="text-xs absolute text-gray-400 right-0">{{ p.fd }}</code>
           </div>
           <div class="mb-1 text-gray-200">
@@ -76,7 +74,8 @@ export default {
     copyrightYear() { 
       const startYear = 2021
       const yearToday = new Date().getFullYear()
-      return startYear > yearToday ? "2021 - " + yearToday : '2021'
+      // return startYear > yearToday ? "2021 - " + yearToday : '2021'
+      return startYear >= yearToday ? `${startYear} - ${yearToday}` : `${startYear}`
     }
   },
 
