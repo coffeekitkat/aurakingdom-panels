@@ -16,8 +16,13 @@ export default defineNuxtConfig({
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'keywords', name: 'keywords', content: 'Aura Kingdom Panels, AK Panels, Aura Kingdom' },
-      { hid: 'description', name: 'description', content: 'Aura Kingdom Panels' }
+      { hid: 'keywords', name: 'keywords', content: [
+        'Aura Kingdom Panels', 
+        'AK Panels, Aura Kingdom', 
+        'Aura Kingdom Character Panels', 
+        'AKUS', 'akdb', 'aurakingdom', 'aura kingdom'
+      ].join(', ') },
+      { hid: 'description', name: 'description', content: 'Aura Kingdom Panels - List of Aura Kingdom US Panels' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
