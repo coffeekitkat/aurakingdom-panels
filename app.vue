@@ -17,12 +17,12 @@
           <div
             v-for="p in panelsDb"
             :key="p.fd"
-            class="text-center mb-4 mt-2"
+            class="text-center mb-4 mt-2  flex items-center justify-center flex-col w-[480px]"
             :data-id="p.id"
             :data-asset-id="p.fd"
           >
-            <img class="text-slate-400" :class="{'flex items-center justify-center border-dashed border-slate-500 border w-[456px] h-[78px]' : !p.isAssetAvailable }" :src="getPanelAssetPath(p)" :alt="getImgAlt(p)" />
-            <div class="relative">
+            <img class="text-slate-400" :class="{'border-dashed border-slate-500 border w-[456px] h-[78px]' : !p.isAssetAvailable }" :src="getPanelAssetPath(p)" :alt="getImgAlt(p)" />
+            <div class="relative w-[480px]">
               <code class="text-blue-400"> {{ p.panel_name }}</code >
               <code class="text-xs absolute text-gray-400 right-0">{{ p.id }}</code>
             </div>
