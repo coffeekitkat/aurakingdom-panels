@@ -63,7 +63,7 @@
         const startYear = 2021
         const yearToday = new Date().getFullYear()
         // return startYear > yearToday ? "2021 - " + yearToday : '2021'
-        return startYear >= yearToday ? `${startYear} - ${yearToday}` : `${startYear}`
+        return startYear >= yearToday ? `${startYear}` : `${startYear} - ${yearToday}`
       }
     },
   
