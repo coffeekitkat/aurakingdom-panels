@@ -1,18 +1,34 @@
 [
   {
-    "id": null,
-    "fd": "Not available",
-    "panel_type": null,
-    "panel_name": "4",
-    "panel_description": "6",
-    "isAssetAvailable": false
+    "id": 306,
+    "fd": "panel0302",
+    "panel_type": 3,
+    "panel_name": "US version Aurora panel",
+    "panel_description": "US Version Exclusive",
+    "isAssetAvailable": true
   },
   {
-    "id": 314,
-    "fd": "panel0310",
+    "id": 310,
+    "fd": "panel0306",
     "panel_type": 3,
-    "panel_name": "Hachijoheme Panel (US Version)",
-    "panel_description": "US Exclusive",
+    "panel_name": "US version Prometheus panel",
+    "panel_description": "US Version Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 311,
+    "fd": "panel0307",
+    "panel_type": 3,
+    "panel_name": "US version Beelzebub panel",
+    "panel_description": "US Version Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 312,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "US Version Christmas Little Red Riding Hood Panel",
+    "panel_description": "US Version Exclusive",
     "isAssetAvailable": false
   },
   {
@@ -2456,14 +2472,6 @@
     "isAssetAvailable": true
   },
   {
-    "id": 306,
-    "fd": "panel0302",
-    "panel_type": 3,
-    "panel_name": "US version Aurora panel",
-    "panel_description": "US Version Exclusive",
-    "isAssetAvailable": true
-  },
-  {
     "id": 307,
     "fd": "panel0303",
     "panel_type": 3,
@@ -2486,37 +2494,5 @@
     "panel_name": "Japanese Version 2023 Voting Panel - Serena",
     "panel_description": "Japanese Version Exclusive",
     "isAssetAvailable": false
-  },
-  {
-    "id": 310,
-    "fd": "panel0306",
-    "panel_type": 3,
-    "panel_name": "US version Prometheus panel",
-    "panel_description": "US Version Exclusive",
-    "isAssetAvailable": true
-  },
-  {
-    "id": 311,
-    "fd": "panel0307",
-    "panel_type": 3,
-    "panel_name": "US version Beelzebub panel",
-    "panel_description": "US Version Exclusive",
-    "isAssetAvailable": true
-  },
-  {
-    "id": 312,
-    "fd": "panel0308",
-    "panel_type": 3,
-    "panel_name": "US Version Christmas Little Red Riding Hood Panel",
-    "panel_description": "US Version Exclusive",
-    "isAssetAvailable": true
-  },
-  {
-    "id": 313,
-    "fd": "panel0309",
-    "panel_type": 3,
-    "panel_name": "US version Guan Yu stats",
-    "panel_description": "US version Exclusive",
-    "isAssetAvailable": true
   }
 ]
