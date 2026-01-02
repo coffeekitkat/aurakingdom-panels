@@ -1,6 +1,11 @@
 <template>
     <div class="bg-gray-800">
       <h1 class="text-gray-100 pt-4 text-center text-4xl">Aura Kingdom Panels</h1>
+      <p class="text-gray-300 text-center pt-2 px-4 text-sm">
+        These panels are for mainly from Aura Kingdom not for Aura Kingdom: Impact.
+        You can download the game Aura Kingdom from <a href="https://www.x-legend.com/online/aurakingdom/" target="_blank">X-Legend website</a>
+      </p>
+
       <div class="flex pt-12 pb-16 px-16 items-center justify-center">
       
         <div
@@ -33,12 +38,21 @@
         </div>
       </div>
   
-      <div class="text-xs text-center text-white pb-8">
+      <div>
+        <!-- Donate link Ko-Fi -->
+        <div class="flex items-center justify-center pb-4">
+          <a href='https://ko-fi.com/coffeekitkat' target='_blank'>
+            <img height='36' style='border:0px;height:36px;' src='/kofi_dark.png' border='0' 
+            alt='Buy Me a Coffee at ko-fi.com' /></a>
+        </div>
+
+        <div class="text-xs text-center text-white pb-8">
         <p>&copy; {{ copyrightYear }}</p>
         <p>
           All game content and assets are trademarks and copyrights of X-Legend or
           Aeria Games. This website is not affiliated with X-Legend or Aeria Games.
         </p>
+      </div>
       </div>
     </div>
   </template>
