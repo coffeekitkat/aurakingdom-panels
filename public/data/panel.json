@@ -8,11 +8,67 @@
     "isAssetAvailable": false
   },
   {
-    "id": 314,
-    "fd": "panel0310",
+    "id": 326,
+    "fd": "panel0322",
     "panel_type": 3,
-    "panel_name": "Hachijoheme Panel (US Version)",
+    "panel_name": "US Version New Year Yagami Hime Panel",
     "panel_description": "US Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 327,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Floating Cannon Elite Panel",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 328,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Arena Floating Cannon Champion",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 329,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Arena Floating Cannon Runner-up",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 330,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Arena Floating Cannon Third Place",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 331,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Battlefield Floating Cannon Champion",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 332,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Battlefield Floating Cannon Runner-up",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 333,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Battlefield Floating Cannon Third Place",
+    "panel_description": "Global Version Exclusive",
     "isAssetAvailable": false
   },
   {
@@ -2003,9 +2059,9 @@
     "id": 249,
     "fd": "panel0245",
     "panel_type": 3,
-    "panel_name": "X",
-    "panel_description": "X",
-    "isAssetAvailable": false
+    "panel_name": "US version Princess Kaguya panel",
+    "panel_description": "Exclusive US version",
+    "isAssetAvailable": true
   },
   {
     "id": 250,
@@ -2067,33 +2123,33 @@
     "id": 257,
     "fd": "panel0253",
     "panel_type": 3,
-    "panel_name": "X",
-    "panel_description": "X",
-    "isAssetAvailable": false
+    "panel_name": "US version Eris panel",
+    "panel_description": "Exclusive US version",
+    "isAssetAvailable": true
   },
   {
     "id": 258,
     "fd": "panel0254",
     "panel_type": 3,
-    "panel_name": "X",
-    "panel_description": "X",
-    "isAssetAvailable": false
+    "panel_name": "US version Da Qiao panel",
+    "panel_description": "Exclusive US version",
+    "isAssetAvailable": true
   },
   {
     "id": 259,
     "fd": "panel0255",
     "panel_type": 3,
-    "panel_name": "X",
-    "panel_description": "X",
-    "isAssetAvailable": false
+    "panel_name": "US Version Summer Shutendoji Stats",
+    "panel_description": "Exclusive US version",
+    "isAssetAvailable": true
   },
   {
     "id": 260,
     "fd": "panel0256",
     "panel_type": 3,
-    "panel_name": "Gaia Panel (JP)",
-    "panel_description": "Japanese Version Exclusive",
-    "isAssetAvailable": false
+    "panel_name": "US version Gaia panel",
+    "panel_description": "Exclusive US version",
+    "isAssetAvailable": true
   },
   {
     "id": 261,
@@ -2123,9 +2179,9 @@
     "id": 264,
     "fd": "panel0260",
     "panel_type": 3,
-    "panel_name": "Japanese Jormungand Panel",
-    "panel_description": "Japanese Version Exclusive",
-    "isAssetAvailable": false
+    "panel_name": "American version Jormungand panel",
+    "panel_description": "Exclusive US version",
+    "isAssetAvailable": true
   },
   {
     "id": 265,
@@ -2333,7 +2389,7 @@
     "panel_type": 3,
     "panel_name": "Christmas Andrea Panel",
     "panel_description": "JP",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 291,
@@ -2341,7 +2397,7 @@
     "panel_type": 3,
     "panel_name": "Christmas Sakuya-hime panel",
     "panel_description": "JP",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 292,
@@ -2395,8 +2451,8 @@
     "id": 298,
     "fd": "panel0294",
     "panel_type": 3,
-    "panel_name": "Hong Kong Version - Spring Atmosphere",
-    "panel_description": "Hong Kong Exclusive",
+    "panel_name": "Panel - Spring Atmosphere",
+    "panel_description": "2025 January Featured Star Event Rewards",
     "isAssetAvailable": false
   },
   {
@@ -2413,7 +2469,7 @@
     "panel_type": 3,
     "panel_name": "Hong Kong Version - Summer Anniversary Celebration",
     "panel_description": "Hong Kong Exclusive",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 301,
@@ -2517,6 +2573,102 @@
     "panel_type": 3,
     "panel_name": "US version Guan Yu stats",
     "panel_description": "US version Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 314,
+    "fd": "panel0310",
+    "panel_type": 3,
+    "panel_name": "Hachijoheme Panel (US Version)",
+    "panel_description": "US Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 315,
+    "fd": "panel0311",
+    "panel_type": 3,
+    "panel_name": "US Version New Year Anubis Panel",
+    "panel_description": " US Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 316,
+    "fd": "panel0312",
+    "panel_type": 3,
+    "panel_name": "Merlin Panel (US Version)",
+    "panel_description": "US version Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 317,
+    "fd": "panel0313",
+    "panel_type": 3,
+    "panel_name": "Shamal Panel (US Version)",
+    "panel_description": "Exclusive US version",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 318,
+    "fd": "panel0314",
+    "panel_type": 3,
+    "panel_name": "Cinderella Panel (US Version)",
+    "panel_description": "Exclusive US version",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 319,
+    "fd": "panel0315",
+    "panel_type": 3,
+    "panel_name": "US Version Bride Inaba Panel",
+    "panel_description": "US Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 320,
+    "fd": "panel0316",
+    "panel_type": 3,
+    "panel_name": "US Version Summer Guan Yu Panel",
+    "panel_description": "US Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 321,
+    "fd": "panel0317",
+    "panel_type": 3,
+    "panel_name": "US Version Mary Panel",
+    "panel_description": "US Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 322,
+    "fd": "panel0318",
+    "panel_type": 3,
+    "panel_name": "US Version Kuberi Panel",
+    "panel_description": "US Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 323,
+    "fd": "panel0319",
+    "panel_type": 3,
+    "panel_name": "US Version Dionysus Panel",
+    "panel_description": "US Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 324,
+    "fd": "panel0320",
+    "panel_type": 3,
+    "panel_name": "US Version Christmas Frigga Panel",
+    "panel_description": "US Exclusive",
+    "isAssetAvailable": true
+  },
+  {
+    "id": 325,
+    "fd": "panel0321",
+    "panel_type": 3,
+    "panel_name": "US Version Typhon Panel",
+    "panel_description": "US Version Exclusive",
     "isAssetAvailable": true
   }
 ]
