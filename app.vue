@@ -3,7 +3,7 @@
       <h1 class="text-gray-100 pt-4 text-center text-4xl">Aura Kingdom Panels</h1>
       <p class="text-gray-300 text-center pt-2 px-4 text-sm">
         These panels are for mainly from Aura Kingdom not for Aura Kingdom: Impact.
-        You can download the game Aura Kingdom from <a href="https://www.x-legend.com/online/aurakingdom/" target="_blank">X-Legend website</a>
+        You can download the game Aura Kingdom from <a class="text-blue-400 underline" href="https://www.x-legend.com/online/aurakingdom/" target="_blank">X-Legend website</a>
       </p>
 
       <div class="flex pt-12 pb-16 px-16 items-center justify-center">
