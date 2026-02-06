@@ -1,74 +1,10 @@
 [
   {
-    "id": null,
-    "fd": "Not available",
-    "panel_type": null,
-    "panel_name": "4",
-    "panel_description": "6",
-    "isAssetAvailable": false
-  },
-  {
-    "id": 326,
-    "fd": "panel0322",
+    "id": 334,
+    "fd": "panel0330",
     "panel_type": 3,
-    "panel_name": "US Version New Year Yagami Hime Panel",
-    "panel_description": "US Exclusive",
-    "isAssetAvailable": false
-  },
-  {
-    "id": 327,
-    "fd": "Not available",
-    "panel_type": null,
-    "panel_name": "Floating Cannon Elite Panel",
-    "panel_description": "Global Version Exclusive",
-    "isAssetAvailable": false
-  },
-  {
-    "id": 328,
-    "fd": "Not available",
-    "panel_type": null,
-    "panel_name": "Arena Floating Cannon Champion",
-    "panel_description": "Global Version Exclusive",
-    "isAssetAvailable": false
-  },
-  {
-    "id": 329,
-    "fd": "Not available",
-    "panel_type": null,
-    "panel_name": "Arena Floating Cannon Runner-up",
-    "panel_description": "Global Version Exclusive",
-    "isAssetAvailable": false
-  },
-  {
-    "id": 330,
-    "fd": "Not available",
-    "panel_type": null,
-    "panel_name": "Arena Floating Cannon Third Place",
-    "panel_description": "Global Version Exclusive",
-    "isAssetAvailable": false
-  },
-  {
-    "id": 331,
-    "fd": "Not available",
-    "panel_type": null,
-    "panel_name": "Battlefield Floating Cannon Champion",
-    "panel_description": "Global Version Exclusive",
-    "isAssetAvailable": false
-  },
-  {
-    "id": 332,
-    "fd": "Not available",
-    "panel_type": null,
-    "panel_name": "Battlefield Floating Cannon Runner-up",
-    "panel_description": "Global Version Exclusive",
-    "isAssetAvailable": false
-  },
-  {
-    "id": 333,
-    "fd": "Not available",
-    "panel_type": null,
-    "panel_name": "Battlefield Floating Cannon Third Place",
-    "panel_description": "Global Version Exclusive",
+    "panel_name": "JP Version Pan Panel",
+    "panel_description": "US Version Exclusive",
     "isAssetAvailable": false
   },
   {
@@ -2670,5 +2606,69 @@
     "panel_name": "US Version Typhon Panel",
     "panel_description": "US Version Exclusive",
     "isAssetAvailable": true
+  },
+  {
+    "id": 326,
+    "fd": "panel0322",
+    "panel_type": 3,
+    "panel_name": "US Version New Year Yagami Hime Panel",
+    "panel_description": "US Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 327,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Floating Cannon Elite Panel",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 328,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Arena Floating Cannon Champion",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 329,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Arena Floating Cannon Runner-up",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 330,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Arena Floating Cannon Third Place",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 331,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Battlefield Floating Cannon Champion",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 332,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Battlefield Floating Cannon Runner-up",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
+  },
+  {
+    "id": 333,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "Battlefield Floating Cannon Third Place",
+    "panel_description": "Global Version Exclusive",
+    "isAssetAvailable": false
   }
 ]

@@ -1,0 +1,2 @@
+# gitattributes file to set image files as binary
+*.png binary
