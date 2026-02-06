@@ -4,6 +4,9 @@ export default defineNuxtConfig({
   nitro: {
     static: true,
   },
+  appConfig: {
+    year: '2026'
+  },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
