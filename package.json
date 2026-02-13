@@ -1,20 +1,30 @@
 {
-  "name": "panels",
+  "name": "aurakingdom-panels",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "nuxt start", 
+    "start": "nuxt start",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
   },
   "dependencies": {
-    "nuxt": "^3.14.159"
+    "baseline-browser-mapping": "^2.9.19",
+    "caniuse-lite": "^1.0.30001769",
+    "nuxt": "^4.0.0",
+    "vue": "^3.5.28",
+    "vue-router": "^5.0.2"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^6.12.2"
-  },
-  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
+    "@antfu/eslint-config": "^7.4.3",
+    "@nuxt/eslint": "^1.15.1",
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "eslint": "^10.0.0",
+    "eslint-plugin-format": "^1.4.0",
+    "typescript": "^5.9.3"
+  }
 }

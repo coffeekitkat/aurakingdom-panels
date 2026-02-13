@@ -1,20 +1,24 @@
-# panels
+# Aura Kingdom Panels
 
 ## Build Setup
 
 ```bash
 # install dependencies
-$ yarn install
+$ bun install
 
 # serve with hot reload at localhost:3000
-$ yarn dev
+$ bun dev
 
 # build for production and launch server
-$ yarn build
-$ yarn start
+$ bun build
+$ bun start
 
 # generate static project
-$ yarn generate
+$ bun generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Disclaimer
+
+All game content and assets are trademarks and copyrights of X-Legend or Aeria Games. This website is not affiliated with X-Legend or Aeria Games.
