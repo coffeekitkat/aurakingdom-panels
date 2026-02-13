@@ -5,7 +5,7 @@
     "panel_type": 3,
     "panel_name": "JP Version Pan Panel",
     "panel_description": "US Version Exclusive",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 1,
@@ -1549,7 +1549,7 @@
     "panel_type": 3,
     "panel_name": "Japanese Version Percival UI",
     "panel_description": "Japanese Version Exclusive",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 194,
@@ -1717,7 +1717,7 @@
     "panel_type": 3,
     "panel_name": "Japanese Version Summer Iwanaga-hime UI",
     "panel_description": "Japanese Version Exclusive",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 215,
@@ -1749,7 +1749,7 @@
     "panel_type": 3,
     "panel_name": "",
     "panel_description": "",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 219,
@@ -1813,7 +1813,7 @@
     "panel_type": 3,
     "panel_name": "",
     "panel_description": "",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 227,
@@ -1821,7 +1821,7 @@
     "panel_type": 3,
     "panel_name": "",
     "panel_description": "",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 228,
@@ -1941,7 +1941,7 @@
     "panel_type": 3,
     "panel_name": "",
     "panel_description": "",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 243,
@@ -1949,7 +1949,7 @@
     "panel_type": 3,
     "panel_name": "X",
     "panel_description": "X",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 244,
@@ -1957,7 +1957,7 @@
     "panel_type": 3,
     "panel_name": "X",
     "panel_description": "X",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 245,
@@ -1965,7 +1965,7 @@
     "panel_type": 3,
     "panel_name": "X",
     "panel_description": "X",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 246,
@@ -1973,7 +1973,7 @@
     "panel_type": 3,
     "panel_name": "X",
     "panel_description": "X",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 247,
@@ -1981,7 +1981,7 @@
     "panel_type": 3,
     "panel_name": "X",
     "panel_description": "X",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 248,
@@ -1989,7 +1989,7 @@
     "panel_type": 3,
     "panel_name": "X",
     "panel_description": "X",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 249,
@@ -2317,7 +2317,7 @@
     "panel_type": 3,
     "panel_name": "Anubis Panel",
     "panel_description": "JP",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 290,
@@ -2341,7 +2341,7 @@
     "panel_type": 3,
     "panel_name": "Japanese version of Thor's panel.",
     "panel_description": "Japanese Version Exclusive",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 293,
@@ -2357,7 +2357,7 @@
     "panel_type": 3,
     "panel_name": "New Year Queen of Hearts panel in the Japanese version.",
     "panel_description": "Japanese Version Exclusive",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 295,
@@ -2381,7 +2381,7 @@
     "panel_type": 3,
     "panel_name": "Japanese Version Zhang Fei Panel",
     "panel_description": "JP Special",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 298,
@@ -2397,7 +2397,7 @@
     "panel_type": 3,
     "panel_name": "Japanese Odin Panel",
     "panel_description": "Japanese Version Exclusive",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 300,
@@ -2613,7 +2613,7 @@
     "panel_type": 3,
     "panel_name": "US Version New Year Yagami Hime Panel",
     "panel_description": "US Exclusive",
-    "isAssetAvailable": false
+    "isAssetAvailable": true
   },
   {
     "id": 327,
