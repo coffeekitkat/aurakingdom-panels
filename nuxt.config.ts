@@ -5,6 +5,11 @@ export default defineNuxtConfig({
   nitro: {
     static: true,
   },
+  ignore: [
+    'public/images_2024_11_11/',
+    'public/images_2025_01_19/',
+    'public/images_2026_02_06/',
+  ],
   appConfig: {
     year: '2026',
   },
@@ -60,5 +65,14 @@ export default defineNuxtConfig({
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  hooks: {
+    'prerender:routes': async function (ctx) {
+      const panels = (await import('./public/data/panel.json')).default;
+      for (const panel of panels) {
+        ctx.routes.add(`/s/${panel.id}`);
+      }
+    },
   },
 });
