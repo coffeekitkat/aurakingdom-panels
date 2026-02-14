@@ -1,11 +1,11 @@
 <script setup lang="ts">
 function getLastUpdateDate() {
-  const lastUpdateDate = new Date('2026-02-06')
+  const lastUpdateDate = new Date('2026-02-06');
   if (import.meta.client) {
-    const lang = window.navigator.language || 'en-US'
-    return new Intl.DateTimeFormat(lang, { year: 'numeric', month: 'long', day: 'numeric' }).format(lastUpdateDate)
+    const lang = window.navigator.language || 'en-US';
+    return new Intl.DateTimeFormat(lang, { year: 'numeric', month: 'long', day: 'numeric' }).format(lastUpdateDate);
   }
-  return new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'long', day: 'numeric' }).format(lastUpdateDate)
+  return new Intl.DateTimeFormat('en-US', { year: 'numeric', month: 'long', day: 'numeric' }).format(lastUpdateDate);
 }
 </script>
 

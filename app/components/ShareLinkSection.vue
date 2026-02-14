@@ -1,28 +1,28 @@
 <script setup lang="ts">
-import { useClipboard } from '@vueuse/core'
+import { useClipboard } from '@vueuse/core';
 
 interface Props {
-  url: string
+  url: string;
 }
 
-const props = defineProps<Props>()
+const props = defineProps<Props>();
 
-const copyStatus = ref<'idle' | 'copied'>('idle')
-const { copy } = useClipboard()
+const copyStatus = ref<'idle' | 'copied'>('idle');
+const { copy } = useClipboard();
 
 async function copyToClipboard() {
   if (!import.meta.client)
-    return
+    return;
 
   try {
-    await copy(props.url)
-    copyStatus.value = 'copied'
+    await copy(props.url);
+    copyStatus.value = 'copied';
     setTimeout(() => {
-      copyStatus.value = 'idle'
-    }, 2000)
+      copyStatus.value = 'idle';
+    }, 2000);
   }
   catch (error) {
-    console.error('Failed to copy:', error)
+    console.error('Failed to copy:', error);
   }
 }
 </script>

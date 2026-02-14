@@ -1,11 +1,11 @@
 <script setup lang="ts">
-const appConfig = useAppConfig()
+const appConfig = useAppConfig();
 
 const copyrightYear = computed(() => {
-  const yearConfig = appConfig.year
-  const startYear = 2021
-  return `${startYear} - ${yearConfig}`
-})
+  const yearConfig = appConfig.year;
+  const startYear = 2021;
+  return `${startYear} - ${yearConfig}`;
+});
 </script>
 
 <template>

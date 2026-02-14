@@ -1,78 +1,78 @@
 <script setup lang="ts">
-import panelsDb from '../../../public/data/panel.json'
-import panelsAssetDb from '../../../public/panellist.json'
+import panelsDb from '../../../public/data/panel.json';
+import panelsAssetDb from '../../../public/panellist.json';
 
 interface Panel {
-  id: number
-  fd: string
-  panel_name: string
-  panel_description: string
-  isAssetAvailable: boolean
+  id: number;
+  fd: string;
+  panel_name: string;
+  panel_description: string;
+  isAssetAvailable: boolean;
 }
 
 interface PanelsAssetDb {
-  [key: string]: string
+  [key: string]: string;
 }
 
-const route = useRoute()
-const panelId = computed(() => Number(route.params.panelId))
+const route = useRoute();
+const panelId = computed(() => Number(route.params.panelId));
 
-const typedPanelsDb = panelsDb as Panel[]
-const typedPanelsAssetDb = panelsAssetDb as PanelsAssetDb
+const typedPanelsDb = panelsDb as Panel[];
+const typedPanelsAssetDb = panelsAssetDb as PanelsAssetDb;
 
 const panel = computed(() => {
-  return typedPanelsDb.find(p => p.id === panelId.value)
-})
+  return typedPanelsDb.find(p => p.id === panelId.value);
+});
 
 function getPanelAssetPath(p: Panel): string {
-  const filename = typedPanelsAssetDb[p.fd]
-  return `/${filename}` || ''
+  const filename = typedPanelsAssetDb[p.fd];
+  return `/${filename}` || '';
 }
 
 function getImgAlt(p: Panel): string {
   if (!p.isAssetAvailable) {
-    return `${p.id} - Asset is not shipped on game client yet`
+    return `${p.id} - Asset is not shipped on game client yet`;
   }
-  return `${p.fd}-${p.panel_name}`
+  return `${p.fd}-${p.panel_name}`;
 }
 
 // Meta tags for social sharing
 const metaTitle = computed(() => {
   if (!panel.value)
-    return 'Panel Not Found - Aura Kingdom Panels'
-  return `${panel.value.panel_name} - Aura Kingdom Panels`
-})
+    return 'Panel Not Found - Aura Kingdom Panels';
+  return `${panel.value.panel_name} - Aura Kingdom Panels`;
+});
 
 const metaDescription = computed(() => {
   if (!panel.value)
-    return 'Panel not found'
-  return panel.value.panel_description
-})
+    return 'Panel not found';
+  return panel.value.panel_description;
+});
 
 const ogImage = computed(() => {
   if (!panel.value)
-    return ''
-  const imagePath = getPanelAssetPath(panel.value)
+    return '';
+  const imagePath = getPanelAssetPath(panel.value);
   // For social sharing, use absolute URL
   if (import.meta.client) {
-    return new URL(imagePath, window.location.origin).toString()
+    return new URL(imagePath, window.location.origin).toString();
   }
-  return imagePath
-})
+  return imagePath;
+});
 
 const ogUrl = computed(() => {
   if (import.meta.client) {
-    return window.location.href
+    return window.location.href;
   }
-  return `/s/${panelId.value}`
-})
+  return `/s/${panelId.value}`;
+});
 
 const shareUrl = computed(() => {
   if (import.meta.client) {
-    return window.location.href
+    return window.location.href;
   }
-  return `/s/${panelId.value}`
-})
+  return `/s/${panelId.value}`;
+});
 
 useSeoMeta({
   title: metaTitle,
@@ -83,7 +83,7 @@ useSeoMeta({
   ogUrl,
   ogType: 'website',
   twitterCard: 'summary_large_image',
-})
+});
 </script>
 
 <template>

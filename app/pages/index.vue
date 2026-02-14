@@ -1,25 +1,25 @@
 <script setup lang="ts">
-import panelsDb from '../../public/data/panel.json'
-import panelsAssetDb from '../../public/panellist.json'
+import panelsDb from '../../public/data/panel.json';
+import panelsAssetDb from '../../public/panellist.json';
 
 interface Panel {
-  id: number
-  fd: string
-  panel_name: string
-  panel_description: string
-  isAssetAvailable: boolean
+  id: number;
+  fd: string;
+  panel_name: string;
+  panel_description: string;
+  isAssetAvailable: boolean;
 }
 
 interface PanelsAssetDb {
-  [key: string]: string
+  [key: string]: string;
 }
 
-const typedPanelsDb = panelsDb as Panel[]
-const typedPanelsAssetDb = panelsAssetDb as PanelsAssetDb
+const typedPanelsDb = panelsDb as Panel[];
+const typedPanelsAssetDb = panelsAssetDb as PanelsAssetDb;
 
 function getPanelAssetPath(p: Panel): string | undefined {
-  const filename = typedPanelsAssetDb[p.fd]
-  return filename
+  const filename = typedPanelsAssetDb[p.fd];
+  return filename;
 }
 </script>
 
