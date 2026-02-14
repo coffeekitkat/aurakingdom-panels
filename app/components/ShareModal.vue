@@ -1,75 +1,75 @@
 <script setup lang="ts">
 interface Panel {
-  id: number
-  fd: string
-  panel_name: string
-  panel_description: string
-  isAssetAvailable: boolean
+  id: number;
+  fd: string;
+  panel_name: string;
+  panel_description: string;
+  isAssetAvailable: boolean;
 }
 
 interface Props {
-  panel: Panel
-  assetPath: string | undefined
-  isOpen: boolean
+  panel: Panel;
+  assetPath: string | undefined;
+  isOpen: boolean;
 }
 
-const props = defineProps<Props>()
+const props = defineProps<Props>();
 const emit = defineEmits<{
-  close: []
-}>()
+  close: [];
+}>();
 
 const shareUrl = computed(() => {
   if (import.meta.client) {
-    return `${window.location.origin}/s/${props.panel.id}`
+    return `${window.location.origin}/s/${props.panel.id}`;
   }
-  return `/s/${props.panel.id}`
-})
+  return `/s/${props.panel.id}`;
+});
 
-const isExpanded = ref(false)
+const isExpanded = ref(false);
 
 function closeModal() {
-  emit('close')
+  emit('close');
 
   if (isExpanded.value && import.meta.client) {
     // Navigate back when closing expanded view
-    window.history.back()
+    window.history.back();
   }
 
   // Reset expanded state
-  isExpanded.value = false
+  isExpanded.value = false;
 }
 
 function handleBackdropClick(event: MouseEvent) {
   if (event.target === event.currentTarget) {
-    closeModal()
+    closeModal();
   }
 }
 
 function expandView() {
   if (!import.meta.client)
-    return
+    return;
 
-  isExpanded.value = !isExpanded.value
+  isExpanded.value = !isExpanded.value;
 
   if (isExpanded.value) {
     // Check if window.history API is available
     if (!window.history || !window.history.pushState) {
       // navigate normally if not available
-      navigateTo(`/s/${props.panel.id}`)
+      navigateTo(`/s/${props.panel.id}`);
     }
     else {
     // Change URL without navigation using History API
-      window.history.pushState({}, '', `/s/${props.panel.id}`)
+      window.history.pushState({}, '', `/s/${props.panel.id}`);
     }
   }
   else {
     if (!window.history || !window.history.pushState) {
       // navigate normally if not available
-      navigateTo('/')
+      navigateTo('/');
     }
     else {
       // Change URL back to home without navigation
-      window.history.pushState({}, '', '/')
+      window.history.pushState({}, '', '/');
     }
   }
 }
@@ -79,23 +79,23 @@ if (import.meta.client) {
   onMounted(() => {
     const handlePopState = () => {
       if (props.isOpen && isExpanded.value) {
-        isExpanded.value = false
-        emit('close')
+        isExpanded.value = false;
+        emit('close');
       }
-    }
-    window.addEventListener('popstate', handlePopState)
+    };
+    window.addEventListener('popstate', handlePopState);
 
     onUnmounted(() => {
-      window.removeEventListener('popstate', handlePopState)
-    })
-  })
+      window.removeEventListener('popstate', handlePopState);
+    });
+  });
 }
 
 function getImgAlt(p: Panel): string {
   if (!p.isAssetAvailable) {
-    return `${p.id} - Asset is not shipped on game client yet`
+    return `${p.id} - Asset is not shipped on game client yet`;
   }
-  return `${p.fd}-${p.panel_name}`
+  return `${p.fd}-${p.panel_name}`;
 }
 </script>
 
@@ -177,7 +177,7 @@ function getImgAlt(p: Panel): string {
               <!-- Panel Preview -->
               <div class="flex flex-col items-center mb-6">
                 <img
-                  class="text-slate-400 text-sm select-none"
+                  class="text-slate-400 text-sm select-none "
                   :class="{
                     'border-dashed border-slate-500 border w-[456px] h-[78px]': !panel.isAssetAvailable,
                   }"
