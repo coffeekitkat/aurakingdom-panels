@@ -1,0 +1,78 @@
+export default defineNuxtConfig({
+  compatibilityDate: '2024-06-01',
+  // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
+  ssr: true,
+  nitro: {
+    static: true,
+  },
+  ignore: [
+    'public/images_2024_11_11/',
+    'public/images_2025_01_19/',
+    'public/images_2026_02_06/',
+  ],
+  appConfig: {
+    year: '2026',
+  },
+  app: {
+  // Global page headers: https://go.nuxtjs.dev/config-head
+    head: {
+      title: 'Aura Kingdom Panels',
+      htmlAttrs: {
+        lang: 'en',
+      },
+      meta: [
+        { charset: 'utf-8' },
+        { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+        { name: 'keywords', content: [
+          'Aura Kingdom Panels',
+          'AK Panels, Aura Kingdom',
+          'Aura Kingdom Character Panels',
+          'AKUS',
+          'akdb',
+          'aurakingdom',
+          'aura kingdom',
+        ].join(', ') },
+        { name: 'description', content: 'Aura Kingdom Panels - List of Aura Kingdom US Panels' },
+      ],
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      ],
+    },
+  },
+
+  // Global CSS: https://go.nuxtjs.dev/config-css
+  css: [
+  ],
+
+  // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
+  plugins: [
+  ],
+
+  // Auto import components: https://go.nuxtjs.dev/config-components
+  components: true,
+
+  // Modules: https://go.nuxtjs.dev/config-modules
+  modules: [
+    '@nuxt/eslint',
+    '@nuxtjs/tailwindcss',
+
+  ],
+  eslint: {
+    config: {
+      standalone: false, // <---
+    },
+  },
+
+  // Build Configuration: https://go.nuxtjs.dev/config-build
+  build: {
+  },
+
+  hooks: {
+    'prerender:routes': async function (ctx) {
+      const panels = (await import('./public/data/panel.json')).default;
+      for (const panel of panels) {
+        ctx.routes.add(`/s/${panel.id}`);
+      }
+    },
+  },
+});
