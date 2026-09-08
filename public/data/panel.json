@@ -1,5 +1,13 @@
 [
   {
+    "id": null,
+    "fd": "Not available",
+    "panel_type": null,
+    "panel_name": "4",
+    "panel_description": "6",
+    "isAssetAvailable": false
+  },
+  {
     "id": 334,
     "fd": "panel0330",
     "panel_type": 3,
